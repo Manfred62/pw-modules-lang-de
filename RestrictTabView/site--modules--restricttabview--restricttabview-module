@@ -1,0 +1,18 @@
+{
+    "file": "site\/modules\/RestrictTabView\/RestrictTabView.module",
+    "textdomain": "site--modules--restricttabview--restricttabview-module",
+    "translations": {
+        "4c9d5194ea8eb7ce4d660fcd0795e1ca": {
+            "text": "Tabs anzeigen"
+        },
+        "e25096024ddfe650f667fe21034e0c6b": {
+            "text": "F\u00fcr Nicht-Superuser sind die hier ausgew\u00e4hlten Tabs nicht sichtbar, es sei denn sie haben eine tab-tabname-view Berechtigung, z.B. tab-settings-view"
+        },
+        "7f8ab7c752b627a3daf7ad67ef21ab09": {
+            "text": "Tabs verstecken"
+        },
+        "bd11b88199a83736852502ef7b7d8645": {
+            "text": "F\u00fcr Nicht-Superuser sind die hier ausgew\u00e4hlten Tabs versteckt, es sei denn sie haben eine tab-tabname-hide Berechtigung, z.B. tab-settings-hide"
+        }
+    }
+}
