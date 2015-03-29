@@ -1,0 +1,21 @@
+{
+    "file": "site\/modules\/ProcessWireUpgrade\/ProcessWireUpgradeCheck.config.php",
+    "textdomain": "site--modules--processwireupgrade--processwireupgradecheck-config-php",
+    "translations": {
+        "050e62291bde7f21c9f4b1c54ba6706a": {
+            "text": "Auf Upgrades \u00fcberpr\u00fcfen bei Anmeldung als Superuser?"
+        },
+        "cfcc31ef0aa4f562eb31a9ba4226317f": {
+            "text": "Wenn \"Nein\" ausgew\u00e4hlt ist, werden Upgrades nur manuell \u00fcberpr\u00fcft \u00fcber Klick auf Verwaltung > Core Upgrade."
+        },
+        "716f5e2e44f2093376d9ea23d3616180": {
+            "text": "Die automatische \u00dcberpr\u00fcfung auf Upgrades setzt mindestens ProcessWire 2.5.20 voraus."
+        },
+        "93cba07454f06a4a960172bbd6e2a435": {
+            "text": "Ja"
+        },
+        "bafd7322c6e97d25b6299b5d6fe8920b": {
+            "text": "Nein"
+        }
+    }
+}
