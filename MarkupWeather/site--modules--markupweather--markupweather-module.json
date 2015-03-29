@@ -54,7 +54,7 @@
             "text": "Schauer"
         },
         "64073b60a6e8c51964a3936efdc86386": {
-            "text": "Schneeb\u00f6hen"
+            "text": "Schneeb\u00f6en"
         },
         "d3237d4b1ae6256df36951b5a03ec61d": {
             "text": "Schnee und Wind"
@@ -78,13 +78,13 @@
             "text": "Dunst"
         },
         "a9af34a440d9af69f60fd26ecf8ea905": {
-            "text": "dunstig"
+            "text": "Dunstig"
         },
         "3f9ced59eba15e472a9070b06be8827c": {
-            "text": "st\u00fcrmisch"
+            "text": "St\u00fcrmisch"
         },
         "0824bb2e1bab5a66eb9673a34d26624c": {
-            "text": "windig"
+            "text": "Windig"
         },
         "1a3c2e99e572ec71d3820d0363d90742": {
             "text": "Kalt"
@@ -114,7 +114,7 @@
             "text": "Hei\u00df"
         },
         "a768433cfc961b584da7747b5a55889b": {
-            "text": "Einzelte Wirbelst\u00fcrme"
+            "text": "Einzelne Wirbelst\u00fcrme"
         },
         "1475c5e3bb3934b78b5ed3e125f63121": {
             "text": "Vereinzelte Wirbelst\u00fcrme"
@@ -142,6 +142,24 @@
         },
         "f1ee740e5d389e109d09f9a5b85319d6": {
             "text": "Aktuelles Wetter:"
+        },
+        "cf7c592f7a970b03690601e341280383": {
+            "text": "Zeigt eine Wettervorschau mit Hilfe der Yahoo! Wetter API"
+        },
+        "222ec2ef401d600eb06ca3f9a3bb2528": {
+            "text": "Woeid is eine Nummer rechts neben dem Nanen der Stadt, z.B. https:\/\/de.wetter.yahoo.com\/deutschland\/berlin\/berlin-638242\/"
+        },
+        "ab23b865f9995bf19f8a43413a2d0831": {
+            "text": "Lesen Sie die Referenz zur [PHP setlocale](http:\/\/php.net\/manual\/en\/function.setlocale.php) Funktion f\u00fcr weitere Informationen zur Anpassung des Formates."
+        },
+        "c9d403679ea3c038ebdff96c9a4f0b4a": {
+            "text": "Lesen Sie die Referenz zur [PHP strftime](http:\/\/php.net\/manual\/en\/function.strftime.php) Funktion f\u00fcr weitere Informationen zur Anpassung des Formates."
+        },
+        "d166486b105afdc6b9c432485fb6a02a": {
+            "text": "5 Tage Vorschau unter dem aktuellen Wetter anzeigen?"
+        },
+        "200e558de0a91a8df17d2014ed7a9742": {
+            "text": "Temperatur in Fahrenheit anstatt in Celsius anzeigen?"
         }
     }
 }
