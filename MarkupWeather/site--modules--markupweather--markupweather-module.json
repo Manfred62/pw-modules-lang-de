@@ -1,0 +1,147 @@
+{
+    "file": "site\/modules\/MarkupWeather\/MarkupWeather.module",
+    "textdomain": "site--modules--markupweather--markupweather-module",
+    "translations": {
+        "fd29458ae58ac32a2d8734ed90ad51ec": {
+            "text": "Mo"
+        },
+        "2ddecde85408faf230652444db78cb72": {
+            "text": "Di"
+        },
+        "510c292b1686eb070d9e90a575f74106": {
+            "text": "Mi"
+        },
+        "ed5e8353dfc585f4c6b3a55d1a9fc01d": {
+            "text": "Do"
+        },
+        "ac616f844b9a5ea5a827bf7fb99b1ad5": {
+            "text": "Fr"
+        },
+        "13c7d2d737f81f7bf89aed9fbcd0ad55": {
+            "text": "Sa"
+        },
+        "ef6572e4cd58bb39a3f4e82fc64fe9f0": {
+            "text": "So"
+        },
+        "8b7153dff6a8c577bbe3879e8624842a": {
+            "text": "Tropischer Strum"
+        },
+        "17c6115bae2de2648edea8a22105cec5": {
+            "text": "Hurrikan"
+        },
+        "a0e5b2c48e8273e05e601415ceb92acd": {
+            "text": "Starke Wirbelst\u00fcrme"
+        },
+        "cfe6f87b7b2e68e709c863a5a81a5bae": {
+            "text": "Wirbelst\u00fcrme"
+        },
+        "5db53b6149d254136b22fb5bc25b4af7": {
+            "text": "Schneeregen"
+        },
+        "0d1eab4e74c92cfa48ad5a713a9c8909": {
+            "text": "Graupelschauer"
+        },
+        "cb9afe7819698832b95e4f74345d1eb0": {
+            "text": "Kalter Nieselregen"
+        },
+        "5bfc42ce7717172f6e1f5ebc6d413a93": {
+            "text": "Nieselregen"
+        },
+        "ca5a066818180fd740327047e82edc13": {
+            "text": "gefrierender Regen"
+        },
+        "8dc4b7ab83ffcc69e0393ab8f24e7049": {
+            "text": "Schauer"
+        },
+        "64073b60a6e8c51964a3936efdc86386": {
+            "text": "Schneeb\u00f6hen"
+        },
+        "d3237d4b1ae6256df36951b5a03ec61d": {
+            "text": "Schnee und Wind"
+        },
+        "b46d3c8ee8032551c011745d587705cc": {
+            "text": "Schnee"
+        },
+        "96924ca366016b2c1536ffe94f852f7f": {
+            "text": "Hagel"
+        },
+        "a0c01bb8c14164e334a1f69e1eb0c957": {
+            "text": "Schauer"
+        },
+        "de3493ea6e7cb1529c9922e9e501faf8": {
+            "text": "Staub"
+        },
+        "8b24c15083ff0d7daf14a6a23cc38bec": {
+            "text": "Nebel"
+        },
+        "f7d4f99a2940bb74f686299758368729": {
+            "text": "Dunst"
+        },
+        "a9af34a440d9af69f60fd26ecf8ea905": {
+            "text": "dunstig"
+        },
+        "3f9ced59eba15e472a9070b06be8827c": {
+            "text": "st\u00fcrmisch"
+        },
+        "0824bb2e1bab5a66eb9673a34d26624c": {
+            "text": "windig"
+        },
+        "1a3c2e99e572ec71d3820d0363d90742": {
+            "text": "Kalt"
+        },
+        "e3a1a93fc29abede6c0f3ceade99fdc0": {
+            "text": "Bew\u00f6lkt"
+        },
+        "61175f27e2d0710f7789252e79ed183a": {
+            "text": "Meistens bew\u00f6lkt"
+        },
+        "aa333f460afc04e585eaaf98fc5156ff": {
+            "text": "Teilweise bew\u00f6lkt"
+        },
+        "dc30bc0c7914db5918da4263fce93ad2": {
+            "text": "Klar"
+        },
+        "ffc76083445e28a7e4b314a07a8c3b6a": {
+            "text": "Sonnig"
+        },
+        "f7f20cf0671906e9c4f2011283904e99": {
+            "text": "Heiter"
+        },
+        "a17d290834431a4065918431768b5f35": {
+            "text": "Regen und Hagel"
+        },
+        "4194726ee334e1085d93e002837b73f0": {
+            "text": "Hei\u00df"
+        },
+        "a768433cfc961b584da7747b5a55889b": {
+            "text": "Einzelte Wirbelst\u00fcrme"
+        },
+        "1475c5e3bb3934b78b5ed3e125f63121": {
+            "text": "Vereinzelte Wirbelst\u00fcrme"
+        },
+        "6157940f8bf8f740ea7184d2d8dfbe1e": {
+            "text": "Vereinzelte Regenschauer"
+        },
+        "3f5c1ae62e392801b1a07b96c1f4f19b": {
+            "text": "Schwere Schneeschauer"
+        },
+        "48ef53765865de4e5b5e8d71cf3a367d": {
+            "text": "Vereinzelte Schneeschauer"
+        },
+        "953a8c2913576f14083cc6f760ef67de": {
+            "text": "Gewitterregen"
+        },
+        "2e489e361641ce99e363c16d7659da7e": {
+            "text": "Schneeschauer"
+        },
+        "93b34b1f55c9702a3a8ba295eac1323c": {
+            "text": "Vereinzelte Gewitterschauer"
+        },
+        "67c19e107de33cab7ea9a9db8bc9ccd2": {
+            "text": "Nicht verf\u00fcgbar"
+        },
+        "f1ee740e5d389e109d09f9a5b85319d6": {
+            "text": "Aktuelles Wetter:"
+        }
+    }
+}
