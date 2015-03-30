@@ -1,0 +1,129 @@
+{
+    "file": "site\/modules\/ModulesManager\/ModulesManager.module",
+    "textdomain": "site--modules--modulesmanager--modulesmanager-module",
+    "translations": {
+        "03b62516184fb6ef591f45bd4974b753": {
+            "text": "aktualisieren"
+        },
+        "2abe9fe7ce0e63c908468573d868acad": {
+            "text": "Modul installieren"
+        },
+        "fc34174d3294990f1475e23f403995a1": {
+            "text": "zur\u00fcck zum Modules Manager"
+        },
+        "0297405c18517bff9aae1d758d4a4949": {
+            "text": "Nach Kategorie filtern"
+        },
+        "e2af7c1036bc5c17affce2023beaf676": {
+            "text": "neue Version verf\u00fcgbar!"
+        },
+        "3ac340832f29c11538fbe2d6f75e8bcc": {
+            "text": "aktualisieren"
+        },
+        "addec426932e71323700afa1911f8f1c": {
+            "text": "mehr"
+        },
+        "de95b43bceeb4b998aed4aed5cef1ae7": {
+            "text": "bearbeiten"
+        },
+        "fd456406745d816a45cae554c788e754": {
+            "text": "herunterladen"
+        },
+        "8843a3e8154149c4f45dfde94fa8362c": {
+            "text": "Nicht installierbar mit Modules Manager"
+        },
+        "6d60f17cae258ea5d6619da4840bec61": {
+            "text": "Keine Download URL gefunden"
+        },
+        "aeceb016dbf762a3add15af64f6799db": {
+            "text": "Modul Download Seite"
+        },
+        "65856cecddafc6f1cd60d958bb95c36e": {
+            "text": "Heruntergeladen: '%s'"
+        },
+        "19ad89bc3e3c9d7ef68b89523eff1987": {
+            "text": "installieren"
+        },
+        "ab216fc1fc240e6ae4a8d9e632b75177": {
+            "text": "Ben\u00f6tigt"
+        },
+        "329775d2913c7bac594f2dcbf0b91595": {
+            "text": "Installiert auch"
+        },
+        "605ea80bb35a7d06e7660ca87ed0efbc": {
+            "text": "Die PHP Konfiguration 'allow_url_fopen' ist auf dem Server deaktiviert. Module k\u00f6nnen nicht \u00fcber den Modules Manager herunter geladen werden. Bitte die Option aktivieren oder den Support des Hosters fragen. Danach erneut versuchen."
+        },
+        "21735652666e1205d27e917e1d37596b": {
+            "text": "Stellen Sie sicher, dass PHP Schreibrechte im Verzeichnis \/site\/assets hat."
+        },
+        "efe937dc175eb583a085855d3052e6dd": {
+            "text": "Stellen Sie sicher, dass PHP Schreibrechte im Verzeichnis \/site\/modules hat."
+        },
+        "8397208e829246882976e63c49dfb9ff": {
+            "text": "Stellen Sie sicher, dass PHP Schreibrechte im Verzeichnis assets hat."
+        },
+        "528da45ca00e8a67978de4dd925ac614": {
+            "text": "Stellen Sie sicher, dass PHP Schreibrechte im Verzeichnis modules hat."
+        },
+        "fe0b9036f4efed3a5dc0ce583b1ed5c1": {
+            "text": "Es gibt ein Problem mit dem herunterladen oder schreiben des Moduls."
+        },
+        "2e9e21c2e6af460888cf160891377d24": {
+            "text": "Admin Theme '%s' erfolgreich herunter geladen und entpackt. Falls alles funktioniert, sollten Sie das neue Theme bereits sehen. Falls nicht, sollte der Cache gel\u00f6scht oder die Seite neu geladen werden."
+        },
+        "b09e0080e00a600e8d42dce655e37968": {
+            "text": "Modul '%s' erfolgreich aktualisiert. \u00dcberpr\u00fcfen Sie nun, ob alles funktioniert oder eventuell neue Optionen vorhanden sind."
+        },
+        "c38c5fd980aae9a6c7c7f3088eecd4c0": {
+            "text": "Kein Klassen Name in GET Parameter gefunden"
+        },
+        "336986bfca6b96063d3a6894c7340cd3": {
+            "text": "Modul erfolgreich herunter geladen und entpackt. Falls das Modul es erm\u00f6glicht, k\u00f6nnen Sie es direkt hier installieren. "
+        },
+        "f2917b64c6d6433aa81ff66d264783ae": {
+            "text": "Entschuldigung, dieses Modul kann jetzt nicht installiert werden. Es m\u00fcssen vorab andere Module installiert werden."
+        },
+        "d374f9cd8a49e331e5303e5266781e5b": {
+            "text": "Dies wird das Theme installieren und das vorherige l\u00f6schen! Falls Sie das \/site\/templates-admin\/ Theme bearbeitet haben oder ein eigenes verwenden, sollte erst eine Sicherung durchgef\u00fchrt werden."
+        },
+        "c25f429745fdefc37a332583c1393b78": {
+            "text": "Bevor Sie fortfahren: stellen Sie sicher, ob Sie der Quelle dieser ZIP Datei vertrauen!"
+        },
+        "04df5fc45c57124bf4509f37d180d264": {
+            "text": "Module gefunden auf modules.processwire.com (%d)"
+        },
+        "b14c50cfbdf80ffa1e494282c306a467": {
+            "text": "Modul Installation"
+        },
+        "4147be352ecfb28184f3698dec84e7b0": {
+            "text": "Modul Titel\/Zusammenfassung"
+        },
+        "027e8532239c8bbba9699a019e60edcd": {
+            "text": "Kategorien"
+        },
+        "f9653f9a51c9fd2923ac60ababcfb6e6": {
+            "text": "Autor(en)"
+        },
+        "5384abf757760d559c25b2b7bee20418": {
+            "text": "Hinzugef\u00fcgt"
+        },
+        "15ebbdbc94323dab72e9b682a5065af5": {
+            "text": "Ge\u00e4ndert"
+        },
+        "b7d3f1607c3c2be26adb30ac63e5d985": {
+            "text": "Aktion"
+        },
+        "246f0bb525914505633cf514f2f1656a": {
+            "text": "ModulesManager ben\u00f6tigt seit Version 2.0 das 'JqueryDataTables' Modul"
+        },
+        "fd5e832917fbe84774f20a620956db3d": {
+            "text": "nicht installierbar"
+        },
+        "6cfe61694ee1bb13ae719d47c2f80b7a": {
+            "text": "gefunden"
+        },
+        "73329564760013a7824ff9d5d1af91ff": {
+            "text": "installiert"
+        }
+    }
+}
