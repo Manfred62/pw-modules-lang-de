@@ -1,0 +1,45 @@
+{
+    "file": "site\/modules\/ModulesManager\/ModulesManagerNotification.module",
+    "textdomain": "site--modules--modulesmanager--modulesmanagernotification-module",
+    "translations": {
+        "ff6e10df868c0390fbac1370ddb2f2d6": {
+            "text": "Modul: %1$s v%2$s"
+        },
+        "331ed19f4efd23634de26d535d657a91": {
+            "text": "Neue Version verf\u00fcgbar: v%1$s"
+        },
+        "7839f39c0c9569d6a3f0a1421274bca3": {
+            "text": "Mehr Infos unter: %1$s"
+        },
+        "5401c6ee29063d65abd4af977dbc4b79": {
+            "text": "Folgende Updates f\u00fcr installierte Module gefunden:"
+        },
+        "c2bbb89748c10d15955c95babb8bd36b": {
+            "text": "Sendet E-Mail Benachrichtigung \u00fcber verf\u00fcgbare Modul Aktualisierungen zu festgelegter E-Mail Adresse."
+        },
+        "c225f25b58e2d61e4a0ad498499fb04a": {
+            "text": "E-Mail Empf\u00e4nger"
+        },
+        "779c4918e3d1d9f7c24615a25eb4b4c7": {
+            "text": "E-Mail Absender"
+        },
+        "7a6c278c0ed165f09e09aaddc9e2ac63": {
+            "text": "Setzt den \"Von\" Header in dieser E-Mail falls festgelegt."
+        },
+        "aac7a319e956d5a771bc062e9c4e58ad": {
+            "text": "E-Mail Betreff"
+        },
+        "d16dd01adf735ed9b87eebff5fc39ce5": {
+            "text": "Intervall"
+        },
+        "0f5b2e900ef9b1b66c01207433d3df22": {
+            "text": "Der Lazy Cron Intervall welcher auf Modul Aktualisierungen pr\u00fcft und E-Mail Benachrichtigungen versendet. Ich habe die \"every5Minutes\" nur zu Testzwecken eingetragen."
+        },
+        "6bf88c12d8a849321c3a0b212735d82a": {
+            "text": "Bitte beachten, die Intervallzeiten k\u00f6nnen variieren, weil jemand die Webseite ausf\u00fchren muss."
+        },
+        "08ecc6301db74e0cc94f87ca2bc3bed9": {
+            "text": "Modul aktivieren"
+        }
+    }
+}
