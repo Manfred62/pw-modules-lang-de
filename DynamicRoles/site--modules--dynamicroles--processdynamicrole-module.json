@@ -1,0 +1,27 @@
+{
+    "file": "site\/modules\/DynamicRoles\/ProcessDynamicRole.module",
+    "textdomain": "site--modules--dynamicroles--processdynamicrole-module",
+    "translations": {
+        "06a204b5d8332d56c74331e0ba1a0ebf": {
+            "text": "Dynamische Benutzerrolle hinzuf\u00fcgen"
+        },
+        "380c3420415170ff76aa7f7aba12fada": {
+            "text": "Sektion hinzuf\u00fcgen"
+        },
+        "846d324e49e6cbc13b362efce62f44c0": {
+            "text": "Markieren Sie jede Berechtigung welche Benutzern entsprechend der oben genannten Selektoren zugewiesen werden soll."
+        },
+        "226c56cf794129114551e6797c0190d3": {
+            "text": "*Die Auswahl der page-edit Berechtigung \u00f6ffnet unten ein weiteres Feld, in welchem Sie speziell festlegen k\u00f6nnen was bearbeitet werden darf. Bitte beachten Sie, dass die page-edit Berechtigung eine Grundvoraussetzung im Adminbereich wie auch f\u00fcr viele weitere anwendbare Berechtigungen ist. Deshalb empfiehlt es sich, die page-edit Berechtigung generell auszuw\u00e4hlen, wenn Sie dieser dynamischen Benutzerrolle irgendeinen Admin Zugriff gew\u00e4hren wollen, selbst wenn dieser Rolle nichts zum bearbeiten zugewiesen wird."
+        },
+        "9bfb6e6af6e6793bfa9387e728187c87": {
+            "text": "(ben\u00f6tigt)"
+        },
+        "325f2397e6506f9a9e0796c40e6aa92c": {
+            "text": "Hinweis: wenn Sie oben die view oder edit Selektoren \u00e4ndern, wird ein neuer Index beim speichern erstellt. Je nachdem, wieviele Seiten betroffen sind, kann das speichern etwas l\u00e4nger dauern als bei einer normalen Seite."
+        },
+        "d04d212f9e76bc52fd17b5d409f77a39": {
+            "text": "Dynamische Benutzerrollen verwalten"
+        }
+    }
+}
