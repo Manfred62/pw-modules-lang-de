@@ -1,0 +1,18 @@
+{
+    "file": "site\/modules\/FieldtypeCropImage\/InputfieldCropImage\/InputfieldCropImage.module",
+    "textdomain": "site--modules--fieldtypecropimage--inputfieldcropimage--inputfieldcropimage-module",
+    "translations": {
+        "046e065a0d7ba4a1f5ea7072b0fbc8b6": {
+            "text": "Thumbnails (f\u00fcr Vorschau hovern, f\u00fcr zuschneiden klicken)"
+        },
+        "dd9629f5ee3a70f0ce13cc3401956514": {
+            "text": "Thumbnail Einstellungen"
+        },
+        "1150dc66103a787b9e772da2484fcee9": {
+            "text": "Geben Sie alle Dimensionen des Zuschnitts, einen pro Zeile, in folgendem Format ein: Name,Breite,H\u00f6he. Einige Beispiele: \"thumbnail,200,200\" oder \"portrait,200,600\". Optional k\u00f6nnen Sie die Anzeige der Thumbnails auch auf ausgew\u00e4hlte Templates begrenzen, indem Sie als letzten Parameter Templatenamen angeben. Beispiel: \"thumbnail,200,200,base-page,home\""
+        },
+        "1ee4e26e9e97f8486a08f06d25dfb49f": {
+            "text": "Regul\u00e4re Bilder zuschneiden"
+        }
+    }
+}
