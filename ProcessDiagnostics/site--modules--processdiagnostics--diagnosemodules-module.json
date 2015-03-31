@@ -1,0 +1,36 @@
+{
+    "file": "site\/modules\/ProcessDiagnostics\/DiagnoseModules.module",
+    "textdomain": "site--modules--processdiagnostics--diagnosemodules-module",
+    "translations": {
+        "217b4168969fa53f433f7f6da261a262": {
+            "text": "Aktualisierung verf\u00fcgbar"
+        },
+        "d70e7354b9655924e8b2e92cbc90021c": {
+            "text": "Es ist eine neue Version verf\u00fcgbar."
+        },
+        "d59f36bb544064edcecdf48342f4bc96": {
+            "text": "Hier klicken um zur Update-Seite zu gelangen."
+        },
+        "092671d6fbcfa9171424fcc805c6ac4a": {
+            "text": "Aktuell"
+        },
+        "0eaadb4fcb48a0a0ed7bc9868be9fbaa": {
+            "text": "Warnung"
+        },
+        "2d13df6f8b5e4c5af9f87e0dc39df69d": {
+            "text": "Ausstehend"
+        },
+        "fbfa815e010b42636c3ceece5ee03d63": {
+            "text": "Modul Version Diagnose"
+        },
+        "97eb9b351a25e532e694a75eb61eaad4": {
+            "text": "\u00dcberpr\u00fcfung der Modul Version"
+        },
+        "b629b5189cefbe8ef068dd83d41bc5a0": {
+            "text": "Ermittelt Daten zu den Versionen der Module"
+        },
+        "5b8ccce12c0a7a8bc5d129b02ca4f165": {
+            "text": "Es ist eine neue Version verf\u00fcgbar. <a href=\"%s\">Hier klicken um zur Update-Seite zu gelangen.<\/a>"
+        }
+    }
+}
