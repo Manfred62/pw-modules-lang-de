@@ -1,0 +1,57 @@
+{
+    "file": "site\/modules\/ProcessDiagnostics\/ProcessDiagnostics.module",
+    "textdomain": "site--modules--processdiagnostics--processdiagnostics-module",
+    "translations": {
+        "e139a585510a502bbf1841cf589f5086": {
+            "text": "Fehler"
+        },
+        "0eaadb4fcb48a0a0ed7bc9868be9fbaa": {
+            "text": "Warnung"
+        },
+        "2a8eb028670e972535e8e246be645821": {
+            "text": "Vorhanden"
+        },
+        "4e6ffa68824549f533393ff422e1f983": {
+            "text": "ist lesbar"
+        },
+        "845ac28dd1e178e8d2f75b05f2d571a6": {
+            "text": "ist nicht lesbar"
+        },
+        "2bc22b74cda0c4d300d16f20e9d8edda": {
+            "text": "ist schreibbar"
+        },
+        "dd70d6fdc3709d8ce4df32f44c984efe": {
+            "text": "ist nicht schreibbar"
+        },
+        "f95463cf5e9d780ee96f7588352ab8ab": {
+            "text": "Nicht vorhanden"
+        },
+        "22e0d16016f4524796e8549aad774e1d": {
+            "text": "System"
+        },
+        "689202409e48743b914713f96d93947c": {
+            "text": "Ausgabe"
+        },
+        "f0188c5a0779e97470e818e9a956514a": {
+            "text": "Hinweise \/ Korrekturen"
+        },
+        "f1ef605627c3e678a7ce46a6e1c60398": {
+            "text": "Diagnose Seite"
+        },
+        "63448764c183c40ad718d41d61cd7f4c": {
+            "text": "Erlaubt eine Bewertung der Laufzeit Umgebung und ermittelt \u00c4nderungen."
+        },
+        "36b64aad8a26246fe3ad4116a2b6f289": {
+            "text": "Diagnose"
+        },
+        "8d3678739d570a6c3cd4fc6573a066eb": {
+            "text": "Keine Diagnose Helfer installiert"
+        },
+        "349838fb1d851d3e2014b9fe39203275": {
+            "text": "Installieren"
+        },
+        "325c51b1e553172ab65682e082aec9b2": {
+            "text": "ein oder mehrere \"Diagnose...\" Module zur Anzeige der Resultate."
+        }
+    }
+}
