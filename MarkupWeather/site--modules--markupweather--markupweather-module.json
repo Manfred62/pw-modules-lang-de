@@ -160,6 +160,12 @@
         },
         "200e558de0a91a8df17d2014ed7a9742": {
             "text": "Temperatur in Fahrenheit anstatt in Celsius anzeigen?"
+        },
+        "f2ad7a89a054ed935137213f42baf604": {
+            "text": "Locale einstellen"
+        },
+        "8b6f6d305407f0b686f1974206ad415c": {
+            "text": "Datum Format"
         }
     }
 }
