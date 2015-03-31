@@ -7,6 +7,7 @@ Dies ist eine kleine Sammlung von deutschen Übersetzungsdateien für ProcessWir
 ### Modules translated
 * DynamicRoles
 * FieldtypeCropImage (Thumbnails)
+* LanguageInstantInstall
 * MarkupWeather (by mr-fan)
 * ModulesManager
 * ProcessDiagnostics
