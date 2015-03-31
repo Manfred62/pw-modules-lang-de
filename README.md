@@ -6,6 +6,7 @@ Dies ist eine kleine Sammlung von deutschen Übersetzungsdateien für ProcessWir
 
 ### Modules translated
 * DynamicRoles
+* FieldtypeCropImage
 * MarkupWeather (by mr-fan)
 * ModulesManager
 * ProcessWireUpgrade
