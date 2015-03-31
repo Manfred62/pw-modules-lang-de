@@ -1,0 +1,54 @@
+{
+    "file": "site\/modules\/ProcessDiagnostics\/DiagnoseDatabase.module",
+    "textdomain": "site--modules--processdiagnostics--diagnosedatabase-module",
+    "translations": {
+        "108f07b08797b78abd31505f26ad59c9": {
+            "text": "Datenbank Diagnose"
+        },
+        "30599016c1b683991fc909858141bc6c": {
+            "text": "Ermittelt Daten der Datenbank"
+        },
+        "c27c372e58ae3938daf0f53baf0bad10": {
+            "text": "Die \u00fcbliche Kodierung f\u00fcr die Datenbank in ProcessWire ist \"utf8\"."
+        },
+        "3c8b55b65cf282104bbf382a5b541eda": {
+            "text": "Zeichensatz"
+        },
+        "5a6c66c0f24b19da5b56f134f87c9e7e": {
+            "text": "Kollation"
+        },
+        "1c28615ee82a1ab23b1466fb98c9379b": {
+            "text": "Verbindung und Datenbank nutzen verschiedene Kollationen. Dies kann die erwartete Sortierung einiger Abfragen \u00e4ndern."
+        },
+        "03356ecea774efb90b8b4e29acf9bba0": {
+            "text": "Server Verbindung"
+        },
+        "9ce63a973eac13e3853bce91f45c8fd9": {
+            "text": "Server Port"
+        },
+        "bcc1cfe667e58471e24212d1c1103dd3": {
+            "text": "Nutzt Datenbank"
+        },
+        "2c0371b7c4dfa6722f749677b3935066": {
+            "text": "Daten:"
+        },
+        "f287348eba5fd8a7875432830693018f": {
+            "text": "Zeichensatz nicht passend zur Verbindung. Dies <em>kann<\/em> zum Verlust von Daten f\u00fchren. Bitte Daten vor dem senden an die Datenbank passend zu '.$charset.' bereinigen."
+        },
+        "a9cbb0c75aaede03687c77c7246093e1": {
+            "text": "Obwohl der Zeichensatz nicht zu dem Zeichensatz der Verbindung passt, sind die in dieser Tabelle gespeicherten Daten von ProcessWire vor dem senden an die Datenbank korrekt bereinigt worden."
+        },
+        "e556ec2769cd630ba74964b14455785f": {
+            "text": "Zeilen:"
+        },
+        "161fbac7ce9ecd85999dd64d41272d01": {
+            "text": "Zeichens\u00e4tze nicht passend. Komponenten werden die Zeichens\u00e4tze zwangsweise konvertieren. Dadurch wird m\u00f6glicherweise etwas umgeschrieben oder falsche Resultate angezeigt."
+        },
+        "8346db516e5f3aa534827e7d6c166744": {
+            "text": "Optimiere"
+        },
+        "d9e0a88d91dc5389e358c3d3b6a030eb": {
+            "text": "Tabelle um Platz zur\u00fcck zu gewinnen und den Index neu zu organisieren."
+        }
+    }
+}
