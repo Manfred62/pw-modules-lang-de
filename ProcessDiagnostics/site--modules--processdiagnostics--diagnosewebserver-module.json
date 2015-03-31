@@ -1,0 +1,33 @@
+{
+    "file": "site\/modules\/ProcessDiagnostics\/DiagnoseWebserver.module",
+    "textdomain": "site--modules--processdiagnostics--diagnosewebserver-module",
+    "translations": {
+        "98dd43dfae05b11befe1f140e0ec787a": {
+            "text": "Installiert"
+        },
+        "d12fb360f73c34226d1e50228875d8cf": {
+            "text": "Nicht installiert"
+        },
+        "517a3e2f18e81d0e8c84f5a7e83889ee": {
+            "text": "mod_rewrite installieren, ist derzeit nicht f\u00fcr Apache verf\u00fcgbar"
+        },
+        "7bf6203a6d6face4a3f757e2add36288": {
+            "text": "htaccess.txt umbenennen zu .htaccess"
+        },
+        "235f8f15d5f9b4482a53b04763ec4f6d": {
+            "text": "L\u00f6sche htaccess.txt"
+        },
+        "7237643e3448839df88aa104bfa19164": {
+            "text": ".htaccess Datei"
+        },
+        "1821bf5a30ff36aab15d3f46b099dec7": {
+            "text": ".htaccess muss vorhanden und lesbar sein, darf <strong>nicht<\/strong> schreibbar sein"
+        },
+        "f8754df9c9b9c5096cf6132844474ff8": {
+            "text": "Webserver Diagnose"
+        },
+        "6a4ee6c19296755d86371eba571c01a6": {
+            "text": "Ermittelt Daten des Webservers"
+        }
+    }
+}
