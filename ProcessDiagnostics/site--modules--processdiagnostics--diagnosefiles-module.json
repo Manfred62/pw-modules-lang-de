@@ -1,0 +1,57 @@
+{
+    "file": "site\/modules\/ProcessDiagnostics\/DiagnoseFiles.module",
+    "textdomain": "site--modules--processdiagnostics--diagnosefiles-module",
+    "translations": {
+        "e44f2133340ab65612005909f205de0d": {
+            "text": "Installations-Datei"
+        },
+        "96c0efa792b9ed4d5f2df8e95efe0efb": {
+            "text": "Installations-Verzeichnis"
+        },
+        "f78f18647764176fad4eccdf180dd3ea": {
+            "text": "\/site-default\/ Verzeichnis"
+        },
+        "2fc4ab825ce2ce9476e8a1c2211ac9b8": {
+            "text": "Root Verzeichnis"
+        },
+        "57dc0100fa3befc96c04f72e7d0da61a": {
+            "text": "Assets Verzeichnis"
+        },
+        "ef777a3410eaec64429c2ed555f8472b": {
+            "text": "Cache Verzeichnis"
+        },
+        "3a61bfa442b09d52f1ab230186cd8782": {
+            "text": "Session Verzeichnis"
+        },
+        "03140ffaf25bffc3211fed0ccd599308": {
+            "text": "Site Verzeichnis"
+        },
+        "12038c13447c5943781dcea3e431349a": {
+            "text": "Ordner sollte nicht schreibbar sein f\u00fcr Webserver Nutzer."
+        },
+        "99c2f475e9e584e2e3f06f7da2c6494f": {
+            "text": "Die Datei \"install.php\" l\u00f6schen."
+        },
+        "7f8ef9f6364a5da37b4a7dc9b4356e19": {
+            "text": "Das Verzeichnis \"\/site\/install\/\" l\u00f6schen."
+        },
+        "aa9673db1f2775630d3c0000351d37d5": {
+            "text": "Das Verzeichnis \"\/site-default\/\" l\u00f6schen."
+        },
+        "f5319e8f034e6215784a5c35c589a143": {
+            "text": "Die Installation sollte \"\/site-default\/\" zu \"\/site\/\" umbenennen."
+        },
+        "c517f4e861f7f52d73216277d8277672": {
+            "text": "Ordner sollte schreibbar sein f\u00fcr Webserver Nutzer."
+        },
+        "5c04335b7140ecde9c7092145ca112bf": {
+            "text": "Dateisystem Diagnose"
+        },
+        "778de44596c0924397c1001ff92a0353": {
+            "text": "Dateisystem Diagnose"
+        },
+        "4cc04746ca5f986a82035ba59d11e3ac": {
+            "text": "Ermittelt Daten zu Dateien und Verzeichnissen"
+        }
+    }
+}
