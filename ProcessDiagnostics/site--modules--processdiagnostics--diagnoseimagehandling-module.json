@@ -1,0 +1,57 @@
+{
+    "file": "site\/modules\/ProcessDiagnostics\/DiagnoseImagehandling.module",
+    "textdomain": "site--modules--processdiagnostics--diagnoseimagehandling-module",
+    "translations": {
+        "51fba242b1fbfb37b10987c4f5a71ad6": {
+            "text": "GD Bibliothek"
+        },
+        "21782f6834822a48783c398586d1e77c": {
+            "text": "Es scheint keine GD-Bibliothek installiert zu sein!"
+        },
+        "3dac1aeffb373cdbaacda303ff3ed5ba": {
+            "text": "Versions-Info nicht verf\u00fcgbar"
+        },
+        "c6cf99e49f6d34bfa7774a1f08e8be29": {
+            "text": "Bug in GD Bibliothek"
+        },
+        "1533b71631d765688cc37b6df146b75b": {
+            "text": "M\u00f6glicher Bug in GD-Version"
+        },
+        "2fd57d305208e9ce09f0dc43e610e1cd": {
+            "text": "Geb\u00fcndelte GD Bibliotheken in den PHP-Versionen 5.5.9 und 5.5.10 sind als problematisch bekannt. Sie sollten entweder A) ihre PHP Version auf 5.5.11 oder neuer aktualisieren, oder B) die ProcessWire Version auf 2.4.2 oder neuer aktualisieren."
+        },
+        "eaa4dc5078017a5c5bebf383ab6f5124": {
+            "text": "Unterst\u00fctzt"
+        },
+        "aa7f77e663b832d5b0e544c5511e680c": {
+            "text": "Nicht unterst\u00fctzt"
+        },
+        "1aef062cd59693b5aa9f49c9e6af2a40": {
+            "text": "F\u00fcr PW Core nicht ben\u00f6tigt, kann jedoch f\u00fcr Drittanbieter-Module notwendig sein."
+        },
+        "ccc4eb8989ffd131b97e8bba471f70ae": {
+            "text": "Exif Daten lesen"
+        },
+        "78945de8de090e90045d299651a68a9b": {
+            "text": "Vorhanden"
+        },
+        "2d25c72c1b18e562f6654fff8e11711e": {
+            "text": "Nicht vorhanden"
+        },
+        "95d32ad48f45c96f33e5ef638648b729": {
+            "text": "Imagick Erweiterung"
+        },
+        "2c62bb949f5062eff1da3cb10ba0dea6": {
+            "text": "Seltsam, die phpinfo Abfrage ist auf ihrem Server deaktiviert! Weitere Informationen nicht m\u00f6glich."
+        },
+        "04596989c3ca34a39952c3101c8cf50d": {
+            "text": "Grafikverarbeitung Diagnose"
+        },
+        "239a2e27618bf7409c714885f0edc615": {
+            "text": "Grafik Verarbeitung"
+        },
+        "d0bf9ba697ceb20595ea7730ea9376e6": {
+            "text": "Ermittelt Daten zur Grafikverarbeitung"
+        }
+    }
+}
