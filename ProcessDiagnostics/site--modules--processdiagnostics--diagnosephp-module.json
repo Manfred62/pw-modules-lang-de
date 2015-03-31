@@ -1,0 +1,54 @@
+{
+    "file": "site\/modules\/ProcessDiagnostics\/DiagnosePhp.module",
+    "textdomain": "site--modules--processdiagnostics--diagnosephp-module",
+    "translations": {
+        "08c10d488533c700e3cbde5d8b9ee0b1": {
+            "text": "PHP Installation aktualisieren auf min. Version"
+        },
+        "5d9173a4f8a38ec49bbb19da8f828e4a": {
+            "text": "Max Speicher"
+        },
+        "236df51bb0e6416236e255b528346fca": {
+            "text": "Zeitzone"
+        },
+        "ecbdff05d9ba8452fff2648bc631e191": {
+            "text": "PHP Diagnose"
+        },
+        "6c9475db8e42a0faf6025cfde3ede958": {
+            "text": "Ermittelt Daten zu PHP"
+        },
+        "f2ba6d29e62c9b59eb94c2a21537fccf": {
+            "text": "ist geladen (*)"
+        },
+        "24f3a4b38ba8d0be236a6b9bbfa23fc4": {
+            "text": "Ein Wert niedriger wie 200 kann Probleme verursachen, lesen Sie mehr dazu im %s"
+        },
+        "a9445bd6582fb85ea18b123a5a5621c9": {
+            "text": "Lesen Sie mehr zu PW mit XDebug im %s"
+        },
+        "00f8b4dc39d4b95394c633ec1db25a3e": {
+            "text": "XDebug Erweiterung"
+        },
+        "82548491d414ba5063623edb494fbffb": {
+            "text": "DBG Erweiterung"
+        },
+        "ff2c89ea0053041a64077b78ee03bfcc": {
+            "text": "ist geladen"
+        },
+        "8eb6c6eaaf5b62aa552e409f73884cae": {
+            "text": "Fehlersuch-Leiste (JS-Implementierung)"
+        },
+        "c6789e1b9bbdf0bc863d93f8a29cef84": {
+            "text": "ist verf\u00fcgbar (*)"
+        },
+        "f88f610850cf38d07e152c4a9d2cf87f": {
+            "text": "(*) die PHP Fehlersuch-Leiste ist keine PHP-Erweiterung. sondern eine PHP-Klasse mit welcher JS-Kode zur Fehleranzeige erstellt werden kann."
+        },
+        "d15d42b9d6ff65532ef5280c35c93ecf": {
+            "text": "Dies kann erweitert werden durch Aufruf von set_time_limit()."
+        },
+        "ed7b2c12eac2e13ebfb3f7758bfaa825": {
+            "text": "Gefixed. Aufruf von set_time_limit() hat keine Auswirkung."
+        }
+    }
+}
