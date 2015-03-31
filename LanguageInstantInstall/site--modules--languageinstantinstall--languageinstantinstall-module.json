@@ -1,0 +1,24 @@
+{
+    "file": "site\/modules\/LanguageInstantInstall\/LanguageInstantInstall.module",
+    "textdomain": "site--modules--languageinstantinstall--languageinstantinstall-module",
+    "translations": {
+        "a5c025da434e6ba39d88041170e5434e": {
+            "text": "Eigene Sprache erstellen"
+        },
+        "8397208e829246882976e63c49dfb9ff": {
+            "text": "Stellen Sie sicher, dass PHP Schreibrechte im Verzeichnis assets hat."
+        },
+        "528da45ca00e8a67978de4dd925ac614": {
+            "text": "Stellen Sie sicher, dass PHP Schreibrechte im Verzeichnis modules hat."
+        },
+        "49f901a706dbba99d3a107d97e05b0dd": {
+            "text": "Schl\u00e4gt eine Liste von Sprachen zur Installation vor."
+        },
+        "5f7a8513a232249e4a1d2f4a4c359667": {
+            "text": "Dieses Modul ben\u00f6tigt ProcessWire 2.4 oder neuer"
+        },
+        "3249bc666acbe71ee4a0d90908c1fdfd": {
+            "text": "Gehen Sie nun \u00fcber Einstellungen > Sprachen und f\u00fcgen eine neue Sprache hinzu!"
+        }
+    }
+}
