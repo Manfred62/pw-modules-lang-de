@@ -9,5 +9,6 @@ Dies ist eine kleine Sammlung von deutschen Übersetzungsdateien für ProcessWir
 * FieldtypeCropImage (Thumbnails)
 * MarkupWeather (by mr-fan)
 * ModulesManager
+* ProcessDiagnostics
 * ProcessWireUpgrade
 * RestrictTabView
