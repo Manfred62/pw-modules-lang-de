@@ -1,0 +1,18 @@
+{
+    "file": "site\/modules\/FieldtypeCropImage\/FieldtypeCropImage.module",
+    "textdomain": "site--modules--fieldtypecropimage--fieldtypecropimage-module",
+    "translations": {
+        "ba5750380aff8766d2d14e2f609b717a": {
+            "text": "Zuschnitt entfernt"
+        },
+        "efe3a266f610f220145b95f33be5fb25": {
+            "text": "Folgendes Thumb existiert nicht: %s"
+        },
+        "648f7b79b12212e085a237ab5baa2404": {
+            "text": "Feld welches ein oder mehrere GIF, JPG oder PNG Grafiken speichert"
+        },
+        "3d505ccb23979d84eff53829bea8b209": {
+            "text": "Breite und H\u00f6he nicht gefunden f\u00fcr Thumb: %s"
+        }
+    }
+}
