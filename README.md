@@ -9,6 +9,7 @@ Dies ist eine kleine Sammlung von deutschen Übersetzungsdateien für ProcessWir
 * FieldtypeCropImage (Thumbnails)
 * LanguageInstantInstall
 * MarkupWeather (by mr-fan)
+* MarkupYahooWeather
 * ModulesManager
 * ProcessDiagnostics
 * ProcessWireUpgrade
