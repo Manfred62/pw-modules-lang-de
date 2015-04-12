@@ -241,6 +241,9 @@
         },
         "4f9c97ff3450739b67a8b30c01b42edc": {
             "text": "Der neue Cache wird mit dem n\u00e4chsten rendern der Seite generiert (tats\u00e4chliche Seite welche dieses Modul rendert)."
+        },
+        "45e351ee418aa1c3790aa072bdfde630": {
+            "text": "Wetter Cache l\u00f6schen"
         }
     }
 }
