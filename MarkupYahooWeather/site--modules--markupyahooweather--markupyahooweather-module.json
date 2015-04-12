@@ -1,0 +1,246 @@
+{
+    "file": "site\/modules\/MarkupYahooWeather\/MarkupYahooWeather.module",
+    "textdomain": "site--modules--markupyahooweather--markupyahooweather-module",
+    "translations": {
+        "fd29458ae58ac32a2d8734ed90ad51ec": {
+            "text": "Mo"
+        },
+        "2ddecde85408faf230652444db78cb72": {
+            "text": "Di"
+        },
+        "510c292b1686eb070d9e90a575f74106": {
+            "text": "Mi"
+        },
+        "ed5e8353dfc585f4c6b3a55d1a9fc01d": {
+            "text": "Do"
+        },
+        "ac616f844b9a5ea5a827bf7fb99b1ad5": {
+            "text": "Fr"
+        },
+        "13c7d2d737f81f7bf89aed9fbcd0ad55": {
+            "text": "Sa"
+        },
+        "ef6572e4cd58bb39a3f4e82fc64fe9f0": {
+            "text": "So"
+        },
+        "8b7153dff6a8c577bbe3879e8624842a": {
+            "text": "Tropischer Strum"
+        },
+        "17c6115bae2de2648edea8a22105cec5": {
+            "text": "Hurrikan"
+        },
+        "a0e5b2c48e8273e05e601415ceb92acd": {
+            "text": "Starke Wirbelst\u00fcrme"
+        },
+        "cfe6f87b7b2e68e709c863a5a81a5bae": {
+            "text": "Wirbelst\u00fcrme"
+        },
+        "5db53b6149d254136b22fb5bc25b4af7": {
+            "text": "Schneeregen"
+        },
+        "0d1eab4e74c92cfa48ad5a713a9c8909": {
+            "text": "Graupelschauer"
+        },
+        "cb9afe7819698832b95e4f74345d1eb0": {
+            "text": "Kalter Nieselregen"
+        },
+        "5bfc42ce7717172f6e1f5ebc6d413a93": {
+            "text": "Nieselregen"
+        },
+        "ca5a066818180fd740327047e82edc13": {
+            "text": "Gefrierender Regen"
+        },
+        "8dc4b7ab83ffcc69e0393ab8f24e7049": {
+            "text": "Schauer"
+        },
+        "64073b60a6e8c51964a3936efdc86386": {
+            "text": "Schneeb\u00f6hen"
+        },
+        "d3237d4b1ae6256df36951b5a03ec61d": {
+            "text": "Schnee und Wind"
+        },
+        "b46d3c8ee8032551c011745d587705cc": {
+            "text": "Schnee"
+        },
+        "96924ca366016b2c1536ffe94f852f7f": {
+            "text": "Hagel"
+        },
+        "a0c01bb8c14164e334a1f69e1eb0c957": {
+            "text": "Schauer"
+        },
+        "de3493ea6e7cb1529c9922e9e501faf8": {
+            "text": "Staub"
+        },
+        "8b24c15083ff0d7daf14a6a23cc38bec": {
+            "text": "Nebel"
+        },
+        "f7d4f99a2940bb74f686299758368729": {
+            "text": "Dunst"
+        },
+        "a9af34a440d9af69f60fd26ecf8ea905": {
+            "text": "Dunstig"
+        },
+        "3f9ced59eba15e472a9070b06be8827c": {
+            "text": "St\u00fcrmisch"
+        },
+        "0824bb2e1bab5a66eb9673a34d26624c": {
+            "text": "windig"
+        },
+        "1a3c2e99e572ec71d3820d0363d90742": {
+            "text": "Kalt"
+        },
+        "e3a1a93fc29abede6c0f3ceade99fdc0": {
+            "text": "Bew\u00f6lkt"
+        },
+        "aa333f460afc04e585eaaf98fc5156ff": {
+            "text": "Teilweise bew\u00f6lkt"
+        },
+        "dc30bc0c7914db5918da4263fce93ad2": {
+            "text": "Klar"
+        },
+        "ffc76083445e28a7e4b314a07a8c3b6a": {
+            "text": "Sonnig"
+        },
+        "a17d290834431a4065918431768b5f35": {
+            "text": "Regen und Hagel"
+        },
+        "4194726ee334e1085d93e002837b73f0": {
+            "text": "Hei\u00df"
+        },
+        "a768433cfc961b584da7747b5a55889b": {
+            "text": "Einzelne Wirbelst\u00fcrme"
+        },
+        "1475c5e3bb3934b78b5ed3e125f63121": {
+            "text": "Vereinzelte Wirbelst\u00fcrme"
+        },
+        "6157940f8bf8f740ea7184d2d8dfbe1e": {
+            "text": "Vereinzelte Regenschauer"
+        },
+        "3f5c1ae62e392801b1a07b96c1f4f19b": {
+            "text": "Schwere Schneeschauer"
+        },
+        "48ef53765865de4e5b5e8d71cf3a367d": {
+            "text": "Vereinzelte Schneeschauer"
+        },
+        "953a8c2913576f14083cc6f760ef67de": {
+            "text": "Gewitterregen"
+        },
+        "2e489e361641ce99e363c16d7659da7e": {
+            "text": "Schneeschauer"
+        },
+        "93b34b1f55c9702a3a8ba295eac1323c": {
+            "text": "Vereinzelte Gewitterschauer"
+        },
+        "67c19e107de33cab7ea9a9db8bc9ccd2": {
+            "text": "Nicht verf\u00fcgbar"
+        },
+        "cf7c592f7a970b03690601e341280383": {
+            "text": "Zeigt die Wettervorhersage \u00fcber die Yahoo! Wetter API an"
+        },
+        "17090e2da80330d5d881c0d76ba1bd35": {
+            "text": "Regen und Graupel"
+        },
+        "42ea9517efa1ec569d968d3fa329a11a": {
+            "text": "Leichte Schneeschauer"
+        },
+        "cab5c7b20bd3238635411a1fe32c9b21": {
+            "text": "Meistens bew\u00f6lkt (Nacht)"
+        },
+        "9eab1a7d8fdd81fb354b888176fa12f0": {
+            "text": "Meistens bew\u00f6lkt (Tag)"
+        },
+        "2672dfeafd78e957e269a53a5d31d387": {
+            "text": "Zeitweise bew\u00f6lkt (Nacht)"
+        },
+        "cc5cfdf1ef64e48b1fd6c43ecfcedfce": {
+            "text": "Zeitweise bew\u00f6lkt (Tag)"
+        },
+        "c06a0d61e62a2d93fa01dd70c5315669": {
+            "text": "Sch\u00f6nes Wetter (Nacht)"
+        },
+        "1c2c3a22f713fca7fb8b5e97ebde030a": {
+            "text": "Sch\u00f6nes Wetter (Tag)"
+        },
+        "d166486b105afdc6b9c432485fb6a02a": {
+            "text": "Zeige die 5 Tage Vorhersage unter dem aktuellen Wetter an?"
+        },
+        "200e558de0a91a8df17d2014ed7a9742": {
+            "text": "Temperatur in Fahrenheit statt Celsius?"
+        },
+        "7cd0088a3fe62ea31b97298fb3fd32fa": {
+            "text": "Wetter Cache erfolgreich gel\u00f6scht"
+        },
+        "5345a169710c848284ac5d56fee56852": {
+            "text": "Kein Wetter Cache vorhanden!"
+        },
+        "4532c4749bc2f7efd2902cb4b8c7287e": {
+            "text": "NNO"
+        },
+        "dc33066c3993e0d50896e533fd692ce0": {
+            "text": "NO"
+        },
+        "66fbab0fb6ada703934d0c474adc65db": {
+            "text": "ONO"
+        },
+        "3a3ea00cfc35332cedf6e5e9a32e94da": {
+            "text": "O"
+        },
+        "f821be3f799c89afb1e117b306b36e2c": {
+            "text": "OSO"
+        },
+        "f003c44deab679aa2edfaff864c77402": {
+            "text": "SO"
+        },
+        "5fc53fc8197865c63285f74b1e147013": {
+            "text": "SSO"
+        },
+        "83a3be00962f7ebef403da83d203e595": {
+            "text": "Aktuell:"
+        },
+        "d601b4361638d5fa4a41782c1551e34a": {
+            "text": "Sonnenaufgang:"
+        },
+        "f2ad7a89a054ed935137213f42baf604": {
+            "text": "Locale einstellen"
+        },
+        "a4c08f4d56393e0cd51c66e1454380d3": {
+            "text": "Siehe auch die [PHP setlocale](http:\/\/php.net\/manual\/en\/function.setlocale.php) Funktionsreferenz f\u00fcr mehr Informationen zur Anpassung des Formats."
+        },
+        "2f8c2927d591bd4277a556a412a82d1e": {
+            "text": "Zeichensatz einstellen"
+        },
+        "7844aca7c9642264351003f21132ec36": {
+            "text": "Konvertiert internationale Datumsnamen in das korrekte Format. Standard = ISO-8859-1"
+        },
+        "8b6f6d305407f0b686f1974206ad415c": {
+            "text": "Datum Format"
+        },
+        "f11f22d1ae5da370fc18763f50164635": {
+            "text": "Siehe auch die [PHP strftime](http:\/\/php.net\/manual\/en\/function.strftime.php) Funktionsreferenz f\u00fcr mehr Informationen zur Anpassung des Formats."
+        },
+        "3a5d91313dff6330069f4df8dc11a517": {
+            "text": "Cache Zeit"
+        },
+        "0f4dd93083505aa02ccdc3f31112b971": {
+            "text": "Cache Zeit in Minuten. Standard = 5 Minuten"
+        },
+        "2d1ba2c1f1b9f4850ca2b65a217e3b6e": {
+            "text": "Windrichtung und Geschwindigkeit anzeigen?"
+        },
+        "d04a8120df20050206aa760f14299b0f": {
+            "text": "Zeit f\u00fcr Sonnenaufgang und Sonnenuntergang anzeigen?"
+        },
+        "520a0bfd36f1f616b89951fed48affc9": {
+            "text": "Skript und Stylesheet automatisch laden?"
+        },
+        "59acb1e3005d1fbcc28ec997dd6dbbd6": {
+            "text": "Skript am Ende der Seite laden?"
+        },
+        "928544abbc33779d347497b5b0ce5011": {
+            "text": "Wetter Cache l\u00f6schen"
+        },
+        "4f9c97ff3450739b67a8b30c01b42edc": {
+            "text": "Der neue Cache wird mit dem n\u00e4chsten rendern der Seite generiert (tats\u00e4chliche Seite welche dieses Modul rendert)."
+        }
+    }
+}
