@@ -1,0 +1,48 @@
+{
+    "file": "site\/modules\/ImageExtra\/ImageExtra.module",
+    "textdomain": "site--modules--imageextra--imageextra-module",
+    "translations": {
+        "5d28dcd09c5073bb0e454aee16d9b349": {
+            "text": "Datei %s verworfen weil sie bereits im Dateisystem vorhanden und einem anderen Feld zugeordnet ist."
+        },
+        "74513586f7cb3398e880661e0d0c3e6c": {
+            "text": "Hier k\u00f6nnen Sie weitere Felder f\u00fcr Bilder hinzuf\u00fcgen."
+        },
+        "29a4356e54b572c0f53b904f613ec8fb": {
+            "text": "Feld f\u00fcr Bildtext hinzuf\u00fcgen?"
+        },
+        "e46bf3c5df5e172d3e5b54a344069bb2": {
+            "text": "Feld f\u00fcr Ausrichtung hinzuf\u00fcgen?"
+        },
+        "cce7c9e052d0166632e99098837ebab7": {
+            "text": "Sie k\u00f6nnen die Werte zur Ausrichtung nach dem Speichern einstellen."
+        },
+        "86b9067eb7c46634eb6cd3f0f165520e": {
+            "text": "Werte zur Ausrichtung des Bildes eingeben"
+        },
+        "56a041477d928fab765a2de5f96e8168": {
+            "text": "Feld f\u00fcr internen Link hinzuf\u00fcgen?"
+        },
+        "0c4a0778f675eb1341785452b67ee82e": {
+            "text": "Andere Text-Eingabefelder hinzuf\u00fcgen?"
+        },
+        "ae0501f4b8d31b04d1302638473f952a": {
+            "text": "In dieser Liste nicht `orientation`, `link` oder `caption` verwenden."
+        },
+        "b5a7adde1af5c87d7fd797b6245c2a39": {
+            "text": "Beschreibung"
+        },
+        "1304b71265f8ac6dd523f63605715e76": {
+            "text": "W\u00e4hlen Sie den Link zur Seite"
+        },
+        "18f98bec0cae5827c6ba99a036d98620": {
+            "text": "W\u00e4hlen Sie die Eingabefelder zu welchen die zus\u00e4tzlichen Felder angef\u00fcgt werden sollen."
+        },
+        "a97fe4f01ea1e33a0f9d530faa07b097": {
+            "text": "W\u00e4hlen Sie die Bild-Eingabefelder"
+        },
+        "5aea180d8247320ed42938e3cb9a8d27": {
+            "text": "Image Extra Felder"
+        }
+    }
+}
