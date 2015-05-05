@@ -1,0 +1,15 @@
+{
+    "file": "site\/modules\/CroppableImage\/classes\/CroppableImageHelpers.class.php",
+    "textdomain": "site--modules--croppableimage--classes--croppableimagehelpers-class-php",
+    "translations": {
+        "14e3dcf562ec2a9ff791373c32856b60": {
+            "text": "CroppableImageOptions nicht verf\u00fcgbar!"
+        },
+        "befcff5b4a953ee35a6a575febf9c8bb": {
+            "text": "Configdata von ' . self::ciGlobalConfigName . ' nicht verf\u00fcgbar!"
+        },
+        "07c4c003a2bc80c168c7632df06393c3": {
+            "text": "An setGlobalConfigSettings \u00fcbergebene Parameter sind nicht valide!"
+        }
+    }
+}
