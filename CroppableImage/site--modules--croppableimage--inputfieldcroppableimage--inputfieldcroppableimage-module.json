@@ -1,0 +1,30 @@
+{
+    "file": "site\/modules\/CroppableImage\/InputfieldCroppableImage\/InputfieldCroppableImage.module",
+    "textdomain": "site--modules--croppableimage--inputfieldcroppableimage--inputfieldcroppableimage-module",
+    "translations": {
+        "7dce122004969d56ae2e0245cb754d35": {
+            "text": "Bearbeiten"
+        },
+        "ad2ac1967f0165ebf04a84bc1819e0de": {
+            "text": "Nach unten bewegen"
+        },
+        "727b701bcc5f26422461f10c07a58d48": {
+            "text": "Nach oben bewegen"
+        },
+        "110deb8556c764e2e160831b5a43da38": {
+            "text": "Diese Zuschnitt-Einstellung (%s) ist gr\u00f6\u00dfer wie das urspr\u00fcngliche Bild (%s). Hochskalieren ist nicht erlaubt."
+        },
+        "de95b43bceeb4b998aed4aed5cef1ae7": {
+            "text": "bearbeiten"
+        },
+        "ff4fef2cba791e4b31501b6078e1edb1": {
+            "text": "Einige Eingabe-Felder sind leer"
+        },
+        "563d6aae16024e55556351466524efa5": {
+            "text": "Zuschnitt-Einstellungen"
+        },
+        "f2a593b8e8e9a7fb218a127931479205": {
+            "text": "Geben Sie alle Dimensionen des Zuschnitts, einen pro Zeile, in folgendem Format ein: Name,Breite,H\u00f6he. Einige Beispiele: \"landscape,900,600\" oder \"portrait,200,600\". Optional k\u00f6nnen Sie eine Zuschnitt-Einstellung auch auf ausgew\u00e4hlte Templates begrenzen, indem Sie als letzten Parameter Templatenamen angeben. Beispiele: \"panorama,1200,600,home\" oder \"square,300,300,basic-page,home\""
+        }
+    }
+}
