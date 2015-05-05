@@ -1,0 +1,24 @@
+{
+    "file": "site\/modules\/CroppableImage\/FieldtypeCroppableImage\/FieldtypeCroppableImage.module",
+    "textdomain": "site--modules--croppableimage--fieldtypecroppableimage--fieldtypecroppableimage-module",
+    "translations": {
+        "96b4361a4ac76986019d236ec2cb40ad": {
+            "text": "Zuschnitt-Einstellungen: Diese Zeile ist keine valide Zuschnitt Einstellung: '%s'"
+        },
+        "114c5efd4560b2845e9e1a6d7c1c2342": {
+            "text": "Zuschnitt-Einstellungen: Die folgenden Templates wurden nicht gefunden: '%s'"
+        },
+        "bf5f684d1e7f95470a0ed0a97bc9c945": {
+            "text": "Namen f\u00fcr Zuschnitt-Einstellungen m\u00fcssen eindeutig sein, '%s' ist bereits belegt: '%s'"
+        },
+        "19ce9a9982119b9065e46ab0b01ab6b0": {
+            "text": "Wegen ung\u00fcltiger Zuschnitt-Einstellungen, welche eventuell ungewollt Varianten entfernt, stellen wir nun die vorherigen Einstellungen wieder her!"
+        },
+        "48ef4e7c1d42fe1d54ec0a9f631446c1": {
+            "text": "Es gibt keine Zuschnitt-Einstellung '%s' f\u00fcr das Template '%s'"
+        },
+        "5a84bbeda7ec91e7c681b60229430774": {
+            "text": "Breite und H\u00f6he f\u00fcr Zuschnitt-Einstellung '%s' nicht gefunden"
+        }
+    }
+}
