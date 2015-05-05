@@ -1,0 +1,36 @@
+{
+    "file": "site\/modules\/CroppableImage\/FieldtypeCroppableImage\/FieldtypeCroppableImageConfAdaptor.php",
+    "textdomain": "site--modules--croppableimage--fieldtypecroppableimage--fieldtypecroppableimageconfadaptor-php",
+    "translations": {
+        "05a892df63ec4662a3e5629951ac9312": {
+            "text": "ERFOLG! Alle Bild-Varianten wurden entfernt."
+        },
+        "63ed10bd15257392e7b607da67998a8f": {
+            "text": "ERFOLG! Alle Seiten mit Bild-Varianten gefunden und aufgelistet."
+        },
+        "e7ceb8235ba433e0b1c120850340b029": {
+            "text": "FEHLER: Das Entfernen der Bild-Varianten wurde nicht erfolgreich beendet. Mehr Details im Fehlerbericht."
+        },
+        "aabd7eb9f31cdc67371d0cda7c6ec86b": {
+            "text": "FEHLER: Konnte nicht alle Seiten mit Bild-Varianten finden und auflisten. Mehr Details im Fehlerbericht."
+        },
+        "4f8f44946afead4d4e79ba26309cc50e": {
+            "text": "Hier k\u00f6nnen Sie f\u00fcr die gesamte Seite Optionen zur Qualit\u00e4t und Sch\u00e4rfe einstellen"
+        },
+        "e33df9911630d88c486dabd249036e5f": {
+            "text": "Globales deaktivieren der DropDown-Auswahl f\u00fcr Qualit\u00e4t & Sch\u00e4rfe!"
+        },
+        "b657204c56dd81f5cd22a665f4d19c1b": {
+            "text": "Sch\u00e4rfen: nicht | soft | medium | stark"
+        },
+        "c76e9c619e8460930f8bbbe89d409d48": {
+            "text": "Qualit\u00e4t: 1-100, wobei h\u00f6her besser, aber auch gr\u00f6\u00dfer ist"
+        },
+        "f8fc96a996eb447fd3277c51185d04bf": {
+            "text": "Entferne alle Bild-Varianten um den Bilder-Cache der gesamten Seite zu bereinigen!"
+        },
+        "8110471d6258cd0592b9fb3261033294": {
+            "text": "Nur testen! Varianten nicht l\u00f6schen!"
+        }
+    }
+}
