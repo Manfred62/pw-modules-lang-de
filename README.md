@@ -5,8 +5,10 @@ This is a small collection of german translation files for ProcessWire modules.
 Dies ist eine kleine Sammlung von deutschen Übersetzungsdateien für ProcessWire Module.
 
 ### Modules translated
+* CroppableImage
 * DynamicRoles
 * FieldtypeCropImage (Thumbnails)
+* ImageExtra
 * LanguageInstantInstall
 * MarkupWeather (by mr-fan)
 * MarkupYahooWeather
