@@ -1,0 +1,45 @@
+{
+    "file": "site\/modules\/CroppableImage\/ProcessCroppableImage\/ProcessCroppableImage.module",
+    "textdomain": "site--modules--croppableimage--processcroppableimage--processcroppableimage-module",
+    "translations": {
+        "fb29e28aefbb50c6f67661c42e13652d": {
+            "text": "Diese Seite funktioniert nur wenn Sie vom Bild-Feld kommen."
+        },
+        "14125c75dee8cadb13284bfa7facf780": {
+            "text": "Zuschneiden und weiter"
+        },
+        "cf2827fc9c10879a05889da6a20ba436": {
+            "text": "Klicken und verschieben Sie den zugeschnittenen Bereich mit der Maus. Die Gr\u00f6\u00dfe des Zuschnitts wird auf %s Pixel ver\u00e4ndert"
+        },
+        "ba1913ac19202873126e63ec20003d24": {
+            "text": "Vorschau anzeigen?"
+        },
+        "556b763769d96726364eec5e37eb186c": {
+            "text": "Sch\u00e4rfen"
+        },
+        "571094bb27864b600d8e6b561a137a55": {
+            "text": "Qualit\u00e4t"
+        },
+        "a1e6b43317a31e4a226e3ac84bd4a093": {
+            "text": "Wir haben kein g\u00fcltiges Suffix (%s) oder es ist das falsche Seiten-Template (%s)!"
+        },
+        "3192880529afef66514751d9d892d705": {
+            "text": "ImageSizer::resize(%s, %s) fehlgeschlagen f\u00fcr %s.%s Hier klicken um den Editor zu schliessen!"
+        },
+        "307193b0a296a298f4a7277ebcce5211": {
+            "text": "Oh! Ein Fehler ist aufgetreten: %s"
+        },
+        "eaa3189262a2cfd74d5b6cbdedf9e486": {
+            "text": "Noch einmal versuchen?"
+        },
+        "cca3d55638d8312976f97e1eb5edbe7e": {
+            "text": "Wau, das sieht gut aus!"
+        },
+        "128c2bf53d97705d9dc2c9ceb41c0035": {
+            "text": "Nicht zufrieden? Nochmal zuschneiden!"
+        },
+        "4dab4ea7a24b5d3736823fc74c1b453e": {
+            "text": "Ung\u00fcltige Seiten-ID"
+        }
+    }
+}
