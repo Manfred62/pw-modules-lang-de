@@ -13,6 +13,8 @@ Dies ist eine kleine Sammlung von deutschen Übersetzungsdateien für ProcessWir
 * MarkupWeather (by mr-fan)
 * MarkupYahooWeather
 * ModulesManager
+* ProcessBlog (by mr-fan)
 * ProcessDiagnostics
 * ProcessWireUpgrade
 * RestrictTabView
+* SchedulePages (by mr-fan)
