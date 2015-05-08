@@ -1,0 +1,15 @@
+{
+    "file": "site\/modules\/ProcessBlog\/template-files\/blog-post.php",
+    "textdomain": "site--modules--processblog--template-files--blog-post-php",
+    "translations": {
+        "ec46a28612c0ee22dac7be423b6b7400": {
+            "text": "Verwandte Kategorien"
+        },
+        "ba1b0884507e0342678e81d4239023fa": {
+            "text": "Verwandte Stichw\u00f6rter"
+        },
+        "15ebdf985720d5ea58146e09450de6ed": {
+            "text": "Siehe auch"
+        }
+    }
+}
