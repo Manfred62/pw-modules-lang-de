@@ -1,0 +1,9 @@
+{
+    "file": "site\/modules\/ProcessBlog\/template-files\/blog-links.php",
+    "textdomain": "site--modules--processblog--template-files--blog-links-php",
+    "translations": {
+        "507b989c63fee2e87d1e4b0dbd18b7bb": {
+            "text": "Keine Links vorhanden."
+        }
+    }
+}
