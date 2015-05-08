@@ -1,0 +1,24 @@
+{
+    "file": "site\/modules\/ProcessBlog\/BlogInstallWizard.php",
+    "textdomain": "site--modules--processblog--bloginstallwizard-php",
+    "translations": {
+        "170f0f698a547dd664d47a9aa3e5693f": {
+            "text": "Elternseitentitel sind Plichtfelder."
+        },
+        "34625e6ad73f5f2372ac0fe753956548": {
+            "text": "Blogseiten k\u00f6nnen nicht installiert werden. Einige Seitennamen existieren bereits. ({$failedPages}"
+        },
+        "70395783458855d7ee1173f21b8fcac2": {
+            "text": "Blogfelder k\u00f6nnen nicht installiert werden. Einige Felder existieren bereits. ({$failedFields}"
+        },
+        "10191f4dd0b449b97a665c1fab18836f": {
+            "text": "Blogtemplates k\u00f6nnen nicht installiert werden. Einige Templates existieren bereits. ({$failedTemplates}"
+        },
+        "16384846a98dd12f1e0553981abc27db": {
+            "text": "Eine Benutzerrolle 'blog.author' existiert bereits!"
+        },
+        "bcc1c5b27e43572df58eca367f2242f3": {
+            "text": "Aufgrund der aufgef\u00fchrten Fehler konnte die Installation nicht ausgef\u00fchrt werden. Bitte n\u00f6tige \u00c4nderungen durchf\u00fchren und nochmals ausf\u00fchren."
+        }
+    }
+}
