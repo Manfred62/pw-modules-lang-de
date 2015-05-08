@@ -1,0 +1,12 @@
+{
+    "file": "site\/modules\/ProcessBlog\/template-files\/blog-recent-comments.php",
+    "textdomain": "site--modules--processblog--template-files--blog-recent-comments-php",
+    "translations": {
+        "d3da97e2d9aee5c8fbe03156ad051c99": {
+            "text": "Mehr"
+        },
+        "f3a648d591b6c76efb96f7a77071d23c": {
+            "text": "Keine Kommentare vorhanden."
+        }
+    }
+}
