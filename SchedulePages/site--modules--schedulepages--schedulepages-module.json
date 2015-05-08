@@ -1,0 +1,69 @@
+{
+    "file": "site\/modules\/SchedulePages\/SchedulePages.module",
+    "textdomain": "site--modules--schedulepages--schedulepages-module",
+    "translations": {
+        "ebf3e7461b398e2b3033096a1aa50f08": {
+            "text": "Das 'Ver\u00f6ffentlichen ab' Datum ist sp\u00e4ter als das 'Ver\u00f6ffentlichen bis' Datum. Bitte korrigieren sie die Einstellungen. Seite wurde nicht ver\u00f6ffentlicht."
+        },
+        "a0f7fe4d2bab2d8aee7d170370e17ae7": {
+            "text": "Seite gespeichert, aber nicht ver\u00f6ffentlicht. Bitte 'Ver\u00f6ffentlichen bis' Datum \u00e4ndern, um diese Seite zu ver\u00f6ffentlichen."
+        },
+        "9b2cb1759a308acbf12dcade79048d07": {
+            "text": "Seite gespeichert, aber nicht ver\u00f6ffentlicht. Bitte 'Ver\u00f6ffentlichen ab' Datum \u00e4ndern, um diese Seite zu ver\u00f6ffentlichen."
+        },
+        "bfc28eb83803fdc50cb09ac00c34a00e": {
+            "text": "Zeitintervall"
+        },
+        "5cf62672ec2e17b35d06bf78aadab139": {
+            "text": "Wie oft soll gepr\u00fcft werden, ob Seiten ver\u00f6ffentlicht oder unver\u00f6ffentlicht werden sollen."
+        },
+        "02fd27d2951d00b83f111f63611ea863": {
+            "text": "Jede Stunde"
+        },
+        "5f86190bddaffe634153c40721b41544": {
+            "text": "Jede Minute"
+        },
+        "5d12c87c03b7c78f776a789c079c6b44": {
+            "text": "Alle 2 Minuten"
+        },
+        "e2f640bf5d42c17d4f13cea86264b277": {
+            "text": "Alle 5 Minuten"
+        },
+        "cb2531191d62f80599c99e6e62d27b62": {
+            "text": "Alle 15 Minuten"
+        },
+        "4f6969a7095a445329e6510879d4e23a": {
+            "text": "Alle 30 Minuten"
+        },
+        "92d06747b703033cc28f7b6f8b948f63": {
+            "text": "Alle 12 Stunden"
+        },
+        "48bf14c419a1d441412510faf39c326d": {
+            "text": "Jeden Tag"
+        },
+        "b4ee40cb697ee0dbcfbe4bbcb5502a71": {
+            "text": "Im Zweifel 'Jede Stunde' w\u00e4hlen."
+        },
+        "a603905470e2a5b8c13e96b579ef0dba": {
+            "text": "Debug"
+        },
+        "6e54a1247c4c569deaed01b4a76da353": {
+            "text": "Das Modul im 'Debug Modus' verwenden?"
+        },
+        "bafd7322c6e97d25b6299b5d6fe8920b": {
+            "text": "Nein"
+        },
+        "93cba07454f06a4a960172bbd6e2a435": {
+            "text": "Ja"
+        },
+        "03933750b259bb07e8b61e937932d8c3": {
+            "text": "Fall ja gew\u00e4hlt ist werden alle Aktionen (Ver\u00f6ffentlichungen und Unver\u00f6ffentlichungen) in der Datei messages.txt gespeichert (\/assets\/logs\/)."
+        },
+        "a2d71c977c434a7b426a4cbf3e7b05e1": {
+            "text": "Ver\u00f6ffentlichen ab Datum"
+        },
+        "99397fcb121478a9d2dce819d0b4d34e": {
+            "text": "Ver\u00f6ffentlichen bis Datum"
+        }
+    }
+}
