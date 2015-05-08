@@ -1,0 +1,528 @@
+{
+    "file": "site\/modules\/ProcessBlog\/ProcessBlog.module",
+    "textdomain": "site--modules--processblog--processblog-module",
+    "translations": {
+        "2e7561c9460c061af1b0b36b6c0c87e7": {
+            "text": "Blog Installation - Letzte Einstellungen"
+        },
+        "f4f70727dc34561dfde1a3c529b6205c": {
+            "text": "Einstellungen"
+        },
+        "0ab984d91ab0a037bdf692bf0e73c349": {
+            "text": "Wichtig"
+        },
+        "88a9268b9aa3f8d95535371981125baf": {
+            "text": "Elternseiten Titel"
+        },
+        "3f48fd8c68b9f875b1d321e944839855": {
+            "text": "Standard Titel"
+        },
+        "26a21ac440ecb6aadd9013525387e6db": {
+            "text": "Anderer Titel"
+        },
+        "5dff0b17100b7086f17d11dcb07b69a6": {
+            "text": "Installationsassitent starten"
+        },
+        "fb3a4b25ceaba837583ab4775dde865c": {
+            "text": "Du must zuerst einen Blogstil in der Moduleinstellung ausw\u00e4hlen!"
+        },
+        "cfeadb64e96083858f9e7ad9738e77c2": {
+            "text": "Modul Einstellungen!"
+        },
+        "eb6009567a89698457415adbe17dd282": {
+            "text": "Du must zuerst einen Blogstil ausw\u00e4hlen in der"
+        },
+        "b3272ccfb32021ef170de3b3af89ff29": {
+            "text": "Um die zeitgesteuerte Ver\u00f6ffentlichung f\u00fcr den Blog zu nutzen muss zuerst das Modul SchedulePages installiert werden!"
+        },
+        "2938c7f7e560ed972f8a4f68e80ff834": {
+            "text": "\u00dcbersicht"
+        },
+        "5dc52ca9ffdc26147075682c92a0a853": {
+            "text": "Artikel"
+        },
+        "af1b98adf7f686b84cd0b443e022b7a0": {
+            "text": "Kategorien"
+        },
+        "189f63f277cd73395561651753563065": {
+            "text": "Stichw\u00f6rter"
+        },
+        "02684cc6b6ea1811a064f475a5fd1d18": {
+            "text": "Autoren"
+        },
+        "8c6384dda98d8864d00e29dc96179970": {
+            "text": "Aufr\u00e4umen"
+        },
+        "0774e163cd7df482edd2abd498189f8b": {
+            "text": "Unver\u00f6ffentlicht"
+        },
+        "2d13df6f8b5e4c5af9f87e0dc39df69d": {
+            "text": "Ausstehend"
+        },
+        "3b878279a04dc47d60932cb294d96259": {
+            "text": "\u00dcberblick"
+        },
+        "c91e4ee170226d66e90f99ba917e4c20": {
+            "text": "Schnellansicht"
+        },
+        "78848b5ef5b3ff6795a7ba7dd4adcbad": {
+            "text": "im \u00dcberblick"
+        },
+        "537c66b24ef5c83b7382cdc3f34885f2": {
+            "text": "Jahr"
+        },
+        "bc4c1050aeeb3ff4240c4894b98f32a9": {
+            "text": "Keine Eintr\u00e4ge gefunden."
+        },
+        "bce22e4313aa05139b94925e80a8db67": {
+            "text": "Blog Titel"
+        },
+        "c954046a44a208d189a1adae4767e18f": {
+            "text": "Schnelleintrag"
+        },
+        "ec211f7c20af43e742bf2570c3cb84f9": {
+            "text": "Hinzuf\u00fcgen"
+        },
+        "1f84d1779ea34961a5d26e657bbb2f65": {
+            "text": "Ver\u00f6ffentlichen ab"
+        },
+        "4628f1e96b3855e9d71e5cc503230b27": {
+            "text": "Optionales automatisches ver\u00f6ffentlichen dieses Artikel ab diesem Datum."
+        },
+        "a4bdcbc83bc680597f94fbd283b6d3da": {
+            "text": "Ver\u00f6ffentlichen bis"
+        },
+        "b336d08aeec9913d233ac32a221cacb8": {
+            "text": "Optionales automatisches ausblenden dieses Artikel ab diesem Datum."
+        },
+        "b78a3223503896721cca1303f776159b": {
+            "text": "Titel"
+        },
+        "52db15acba592d8ff0ed98b1d7565d95": {
+            "text": "Ein Titel ist Pflichtangabe."
+        },
+        "ac101b32dda4448cf13a93fe283dddd8": {
+            "text": "Inhalt"
+        },
+        "b39ba35ebd0fae0332174aab117c64b2": {
+            "text": "Unver\u00f6ffentlicht speichern"
+        },
+        "110a4b01beabd53b661a47d4b44bd7a8": {
+            "text": "Ver\u00f6ffentlichen"
+        },
+        "93b5412a3d90d01dcd3cb1d7e4b0fbd6": {
+            "text": "Artikel bearbeiten"
+        },
+        "7dce122004969d56ae2e0245cb754d35": {
+            "text": "bearbeiten"
+        },
+        "347069272d2dca3cb31d4c2039158945": {
+            "text": "Auf einen Titel klicken, um diesen zu bearbeiten."
+        },
+        "b719b78abaa4fc618bf8e6a6467dd545": {
+            "text": "K\/Sichtbarkeit"
+        },
+        "6c8c37e882ca1fb7db8601b5b1736604": {
+            "text": "K\/Gepr\u00fcft"
+        },
+        "0482e1ad184012df121373cf77693a5f": {
+            "text": "K\/Ausstehend"
+        },
+        "79f6c1e879d0f45c1683525f043cb1ae": {
+            "text": "K\/Spam"
+        },
+        "fff0d600f8a0b5e19e88bfb821dd1157": {
+            "text": "Bilder"
+        },
+        "91f3a2c0e4424c87689525da44c4db11": {
+            "text": "Dateien"
+        },
+        "a517747c3d12f99244ae598910d979c5": {
+            "text": "Autor"
+        },
+        "9b9d8a976b42e0bd66381797644943d5": {
+            "text": "Ver\u00f6ffentlicht"
+        },
+        "44749712dbec183e983dcd78a7736c41": {
+            "text": "Datum"
+        },
+        "f2a6c498fb90ee345d997f888fce3b18": {
+            "text": "l\u00f6schen"
+        },
+        "bafd7322c6e97d25b6299b5d6fe8920b": {
+            "text": "Nein"
+        },
+        "24fe48030f7d3097d5882535b04c3fa8": {
+            "text": "abgelaufen"
+        },
+        "57abda1aaa5f571b8176b970ecd369ca": {
+            "text": "anzeigen"
+        },
+        "ea0798646df2bcd115f4c18076e38b44": {
+            "text": "Eintr\u00e4ge"
+        },
+        "8ff8ccd45d3bb5303d3ecf6d5e735d2a": {
+            "text": "K\/=Kommentare"
+        },
+        "181e9a13059454fb2212f1bf10f394ac": {
+            "text": "unver\u00f6ffentlicht"
+        },
+        "48a6e43e1abd7b9964126bf665465bd0": {
+            "text": "Standard Kommentareinstellung"
+        },
+        "bf5274843039f80d9353f1e865dc7431": {
+            "text": "Kommentare immer anzeigen"
+        },
+        "228124ca6d02af69c20cdb1e9f96ee21": {
+            "text": "Neue Kommentare deaktivieren"
+        },
+        "7daff9b09042227107961aeeebaf32fa": {
+            "text": "Kommentare deaktivieren"
+        },
+        "a7e253cd8dd95da3e20daf45519a8dc2": {
+            "text": "Papierkorb"
+        },
+        "06df33001c1d7187fdd81ea1f5b277aa": {
+            "text": "Aktionen"
+        },
+        "321de6177ce2d27d7c47895f8ee91b89": {
+            "text": "Ausgew\u00e4hlte Aktion auf die ausgew\u00e4hlten Eintr\u00e4ge anwenden."
+        },
+        "004bf6c9a40003140292e97330236c53": {
+            "text": "Aktion"
+        },
+        "9639e32cab248434a17ab32237cb3b71": {
+            "text": "anwenden"
+        },
+        "f01c15e64106ba006bfcbf35b4a972b3": {
+            "text": "Ein Eintrag pro Zeile."
+        },
+        "4c1fef9d198a460b7de473c972a62693": {
+            "text": "Hinzuf\u00fcgen + Ver\u00f6ffentlichen"
+        },
+        "9dea4016dbcc290b773ab2fae678aaa8": {
+            "text": "Eintr\u00e4ge"
+        },
+        "4b4c669b2af0a735ce76f232e3a6237b": {
+            "text": "Hinzuf\u00fcgen und Ver\u00f6ffentlichen"
+        },
+        "b6302db789079d088f19bdf9b9bb55ae": {
+            "text": "Auf einen Titel klicken zum bearbeiten"
+        },
+        "160b8f6c778247b88e95f66ecc32985a": {
+            "text": "Kein Foto im Profil vorhanden"
+        },
+        "44d7eeb595480ed3d743a692bf742797": {
+            "text": "Bitte in Deinem Profil den vollst\u00e4ndigen Namen angeben."
+        },
+        "11ae00da00be903d0835f057cd4b2fe3": {
+            "text": "Beschreibung der Blog\u00fcbersicht."
+        },
+        "c9cc8cce247e49bae79f15173ce97354": {
+            "text": "Speichern"
+        },
+        "b5a7adde1af5c87d7fd797b6245c2a39": {
+            "text": "Beschreibung"
+        },
+        "453e6aa38d87b28ccae545967c53004f": {
+            "text": "Nicht verf\u00fcgbar"
+        },
+        "b0e8c1fd3fbdc3b79972a6edf659455b": {
+            "text": "Entschuldigung diese Seite ben\u00f6tigt Superuser Zugriffsrechte."
+        },
+        "bc82ac048552e2283f45762e84ac9e0c": {
+            "text": "Bitte sorgf\u00e4ltig lesen"
+        },
+        "8319e08b88e5fa16f259e721a325ddab": {
+            "text": "Du must eine Aktion ausw\u00e4hlen."
+        },
+        "17889293823f3c5edea92437302b2947": {
+            "text": "Mindestens einen Artikel ausw\u00e4hlen um eine Aktion anwenden zu k\u00f6nnen."
+        },
+        "d2de47432f22f75ebe4ee503ccd26626": {
+            "text": "Du must mindestens eine Kategorie zum l\u00f6schen ausw\u00e4hlen."
+        },
+        "ff19f62eb1fe8c9a7561501dd41445d4": {
+            "text": "Du must mindestens ein Stichwort zum l\u00f6schen ausw\u00e4hlen."
+        },
+        "9e31eadc87a42dd9b75f4b4d141c192b": {
+            "text": "Der Name wird bereits benutzt. Bitte einen anderen w\u00e4hlen."
+        },
+        "81d6249c93fa05e35050e29cb9909d50": {
+            "text": "Neuer Artikel {$p->title} hinzugef\u00fcgt."
+        },
+        "ca49062097fded0d1b557663a23a6cc5": {
+            "text": "Einige Kategorien existieren bereits und wurden nicht erstellt. ({$failedTitles})"
+        },
+        "ec919e9fe6fe88984b1c9ca1fe0c3f73": {
+            "text": "Du musst einige Kategorien anlegen."
+        },
+        "b2a096d6db6f0823994c8a9862876ffb": {
+            "text": "Einige Stichw\u00f6rter existieren bereits und wurden nicht erstellt. ({$failedTitles})"
+        },
+        "fb696805ddf487b68825399956b9de4e": {
+            "text": "Du musst einige Stichw\u00f6rter anlegen."
+        },
+        "3e39508053c2e27f19443490f07c0407": {
+            "text": "Blog Einstellungen gespeichert"
+        },
+        "82d4aef0ff3cda91ba0f0c8ca1907cc5": {
+            "text": "Bitte vor dem Speichern zuerst \u00c4nderungen durchf\u00fchren."
+        },
+        "e28efae6e1a499f39bf16bbfd87ef8c2": {
+            "text": "Blog Seite anzeigen"
+        },
+        "77983506c1c16547aef523908c88cca9": {
+            "text": "Blog vollst\u00e4ndig installiert"
+        },
+        "7f0d44878cce76814b6879e50b1b5fae": {
+            "text": "Cleanup Funktion"
+        },
+        "70ceef6d5ebec952a92b752e12e89349": {
+            "text": "Bitte nicht den Blog deinstallieren - vorher bitte ausf\u00fchren"
+        },
+        "41d57665a7b340a9b620b796823d1014": {
+            "text": "au\u00dfer du willst die Blog Seiten behalten ohne das Modul zu benutzen."
+        },
+        "43cdb3b78683cd59a9be41e98470a8ab": {
+            "text": "Bevor die \u00dcbersicht angezeigt werden kann bitte zuerst einen Blog Stil ausw\u00e4hlen und speichern. Auch k\u00f6nnen noch die Einstellungen wie gew\u00fcnscht ver\u00e4ndert werden. Bitte folgendes beachten:"
+        },
+        "7a72b5127fa1cc3efc497206c5f68698": {
+            "text": "Beim ersten Start der Blog \u00dcbersicht ist zu beachten, dass die Installation abgeschlossen werden muss. Wenn die Installation abgeschlossen ist, k\u00f6nnen die Grundlegenden Einstellungen nicht mehr ver\u00e4ndert werden. Diese Einstellungen werden erst wieder sichtbar\/\u00e4nderbar wenn die Komponenten deinstalliert werden. Dies ist nur als Superuser mit der Cleanup Funktion in der Blog \u00dcbersicht m\u00f6glich. Falls die Blog Modul Einstellungen \u00fcbersehen werden und\/oder nicht abgeschlossen werden und trotzdem die Blog Installation in der Blog \u00dcbersicht ge\u00f6ffnet wird - BITTE KEINE Einstellungen dort vornehmen oder nochmals speichern! Dies kann zu fehlfunktionen f\u00fchren. Bitte sorgf\u00e4ltig alle Angaben \u00fcber die einzelnen Installationsschritte durchlesen!"
+        },
+        "ef40422ff92143265beb7c7485882903": {
+            "text": "Bitte einen Blog URL Stil w\u00e4hlen"
+        },
+        "7b4a5484d44ecfc786cc0228defd1cac": {
+            "text": "Diese Einstellung legt fest wie die Blog Seiten in der Seitenstruktur angezeigt werden. Unter der jeweiligen Auswahl wird die Struktur als Beispiel angezeigt. Diese Einstellung ist eine Pflichangabe!"
+        },
+        "308f33017d7b2c11146787b772ebef3c": {
+            "text": "Stil 1"
+        },
+        "d5fe835951d567c7f5c5034a955fc5d2": {
+            "text": "Stil 2"
+        },
+        "1bccc48da0e1de05286f28438640e666": {
+            "text": "Stil 3"
+        },
+        "8ca8af980f761b982ed9009ddf7950e8": {
+            "text": "Stil 4"
+        },
+        "8c37138e6ebd4333b32b8c39e71f7fa6": {
+            "text": "Blog URL Stile"
+        },
+        "fb6b944e88b80b5750194ba50d00bf8d": {
+            "text": "Beim ersten Start der Blog \u00dcbersicht ist es m\u00f6glich in den abschlie\u00dfenden Einstellungen, die Elternseiten der einzelnen Komponenten umzubennen bevor diese erstellt werden! Beispiel BLOG > Thema, Posts > Artikel, Categories > Kategorien, Tags > Stichw\u00f6rter usw. Sp\u00e4ter k\u00f6nnen diese Bezeichnungen immer noch im Seitenbaum ge\u00e4ndert werden. Einzige Ausnahme betrifft die 3 automatisch angelegten Seiten 'Example Post', 'Example Category' und 'Example Tag', diese d\u00fcrfen weder gel\u00f6scht noch die ID's ge\u00e4ndert werden (Umbennen und verwenden ist kein Problem). Abh\u00e4ngig von weiteren Einstellungen werden nicht alle hier angegebenen Seiten angelegt z.B. Kommentare werden nur erstellt wenn die entsprechende Einstellunge weiter unten gesetzt wird. "
+        },
+        "3a0fe7001cd8f71aef2c8bfa1dea37c7": {
+            "text": "Zeitgesteuerte Ver\u00f6ffentlichung"
+        },
+        "d646c4403618e5960a31423bbe7edb0e": {
+            "text": "Bitte ausw\u00e4hlen um die zeitgesteuerte Ver\u00f6ffentlichung zu aktivieren"
+        },
+        "44b4cedd45b0d15587c7e9d3b8d2d784": {
+            "text": "Das Modul SchedulePages ist installiert. Sie k\u00f6nnen diese M\u00f6glichkeit nutzen."
+        },
+        "96a1149d1dd96d40231b92809a1036b9": {
+            "text": "Um diese Funktion zu nutzen muss das Modul SchedulePages installiert sein. Dies muss VOR der Blog Installation abgeschlossen werden. Aktuell ist das Modul nicht installiert - falls gew\u00fcnscht NICHT speichern und zuerst das SchedulePages Modul installieren. Anschlie\u00dfend die Installion abschlie\u00dfen."
+        },
+        "576a8c4d023866f8a1675a1a5ae82896": {
+            "text": "Kommentarfunktion installieren"
+        },
+        "2d4b893bf2916e85ce26d3a259f9c083": {
+            "text": "Bitte ausw\u00e4hlen um die Kommentarfunktion zu aktivieren"
+        },
+        "ffe6da3f423dc2dccb752184a4414dae": {
+            "text": "Die Funktion erlaubt ihren Benutzern die Artikel zu kommentieren. Es ist zus\u00e4tzlich m\u00f6glich diese Einstellungen sp\u00e4ter pro Artikel zu setzen oder zu deaktivieren."
+        },
+        "6af8109c716cd6525174d8cbfc1aa7ff": {
+            "text": "Templatedateien installieren"
+        },
+        "c00fc5144ab8fabf7d75749d316196e3": {
+            "text": "Optional k\u00f6nnen alle Templatedateien installiert und angelegt werden. Diese Funktion steht nur bei der Erstinstallation zur Verf\u00fcgung. Falls nicht ausgew\u00e4hlt m\u00fcssen die entsprechenden Ausgabe Templates manuell erzeugt werden."
+        },
+        "35c2462ee7bf9dc056b71217191f00b1": {
+            "text": "Leere Templatedateien erzeugen"
+        },
+        "b4a74e593b9114cc5cbfc80d98cc6d15": {
+            "text": "Demo Blog Templatedateien"
+        },
+        "4eb3aa2cd54d6a6df79bb7d403cb0b95": {
+            "text": "Keine Templatedateien installieren"
+        },
+        "3a598e6ad70c3de0246108fc7d0410be": {
+            "text": "Prefix f\u00fcr Templatedateien, Templatenamen und Felder"
+        },
+        "a8a3523f9c3f68efe5be9710feb93782": {
+            "text": "Defaulteinstellung ist 'blog'. Eine Prefixangabe ist Plicht. Beipspiel: Templatename > blog-post, Templatedatei > blog-post.php und Feld > blog_date."
+        },
+        "95fa568f0b53b27f924ebe0982a07c6b": {
+            "text": "Stichwort f\u00fcr Templates und Felder"
+        },
+        "adc6c4d3bc2b9430a01e628d5b72376b": {
+            "text": "Defaulteinstellung ist 'blog'. Einstellung ist optional. Dieses Stichwort wird bei der Erstellung der Templates und Felder benutzt, um diese zu gruppieren. Zur besseren \u00dcbersicht bitte verwenden."
+        },
+        "a6395c5d33ca08ef7d4bc230735b320f": {
+            "text": "Schnell %s"
+        },
+        "106e55fc426540f24a21c0890ae046a7": {
+            "text": "%1$s %2$d bis %3$d von %4$d"
+        },
+        "460c3ad22193ba9081056eb1dc9af116": {
+            "text": "Neu %s"
+        },
+        "7dfa8bf72c98a7c1927d689cdbc49ce1": {
+            "text": "Bearbeiten %s"
+        },
+        "ef01391c75cd2e9e1f59109f414043eb": {
+            "text": "%d Artikel ver\u00f6ffentlicht."
+        },
+        "5d6948580c33f942503b817ecbc33c2d": {
+            "text": "%d Artikel ver\u00f6ffentlicht."
+        },
+        "c52bcfaf52098353c77cfd6bac43fdb2": {
+            "text": "%d Artikel unver\u00f6ffentlicht."
+        },
+        "2debf5f1422167a2d91d67ebfa4d61ff": {
+            "text": "%d Artikel unver\u00f6ffentlicht."
+        },
+        "d586ba184d405863f79bac8a68712b67": {
+            "text": "Bei %d Artikel wurde die Standardkommentarfunktion eingestellt."
+        },
+        "9070bc3af5bddfadb99e228771be37cc": {
+            "text": "Bei %d Artikeln wurde die Standardkommentarfunktion eingestellt."
+        },
+        "cf13a8d6d419bde0d877877773e872cb": {
+            "text": "Bei %d Artikel wurde 'Kommentare immer anzeigen' eingestellt."
+        },
+        "9ff18bf411bc33c0ce3f17f6a5a04d4f": {
+            "text": "Bei %d Artikeln wurde 'Kommentare immer anzeigen' eingestellt."
+        },
+        "35f2c81f3aaec4ae261da6691128e45f": {
+            "text": "Bei %d Artikel wurden Neue Kommentare deaktiviert."
+        },
+        "f74ce5ae0efc8dce58a5bfedda6910c5": {
+            "text": "Bei %d Artikeln wurden Neue Kommentare deaktiviert."
+        },
+        "2cc9c87da97361bcff5d541c324c716c": {
+            "text": "Bei %d Artikel wurden Kommentare deaktiviert."
+        },
+        "bb27fd2c8bc2a00320f60112951eb425": {
+            "text": "Bei %d Artikeln wurden Kommentare deaktiviert."
+        },
+        "1775f5710122749e76ee25deef4e1293": {
+            "text": "%d Artikel in den Papierkorb verschoben."
+        },
+        "276def813be46e8ef975498d8be12c0f": {
+            "text": "%d Artikel in den Papierkorb verschoben."
+        },
+        "5d3c0d59ba740a3f3257e27bb279616b": {
+            "text": "%d Artikel gel\u00f6scht."
+        },
+        "2242d3d5d1b854e65822799e3875ac52": {
+            "text": "%d Artikel gel\u00f6scht."
+        },
+        "071999ee89419390e3537b4d83469b64": {
+            "text": "%d Kategorie gel\u00f6scht."
+        },
+        "f95c747dd58f310d310c3b4c515dfb2e": {
+            "text": "%d Stichwort gel\u00f6scht."
+        },
+        "331b6c60756d9992d92b3e15ffbd5dfa": {
+            "text": "%d Stichwort gel\u00f6scht."
+        },
+        "961080e098a6a8f15fb9a44aa5dec0bd": {
+            "text": "%d Stichw\u00f6rter gel\u00f6scht."
+        },
+        "5caf4c26d2b04e73382be2f149399994": {
+            "text": "%d Kategorie angelegt."
+        },
+        "52719f56cb280205ddfa97a677bc18d1": {
+            "text": "%d Kategorien angelegt."
+        },
+        "65cd086db40c1c43fc3830cd243b4307": {
+            "text": "%d Stichwort angelegt."
+        },
+        "34265ad5741c5e12a1f7e65af8ef55d6": {
+            "text": "%d Stichw\u00f6rter angelegt."
+        },
+        "8e6e1dedad925bdbc74ebfcf6913c995": {
+            "text": "%d Erweiterung nicht verf\u00fcgbar (unver\u00f6ffentlicht)."
+        },
+        "897b7d6df2d45f4560b304c0e847a324": {
+            "text": "%d Erweiterungen nicht verf\u00fcgbar (unver\u00f6ffentlicht)."
+        },
+        "cfc5e1fc21968f57d592be63fd3b7dd5": {
+            "text": "%d Erweiterung verf\u00fcgbar (ver\u00f6ffentlicht)."
+        },
+        "274718f01ceb4d8c14da1b09cbe0b17a": {
+            "text": "%d Erweiterungen verf\u00fcgbar (ver\u00f6ffentlicht)."
+        },
+        "c500c78da404dbf6efddbe9c3fd051ed": {
+            "text": "Bitte schlie\u00dfe die Bloginstallation ab. Pr\u00fcfe alle Einstellungen und mache alle noch n\u00f6tigen \u00c4nderungen hier oder in der Konfiguration des Blog Modules {$blogURL}. In diesem letztem Installationsschritt kannst du die Namen der automatisch angelegten Elternseiten \u00e4ndern. Nach Abschluss der Installation ist es nicht mehr m\u00f6glich Einstellungen hier, oder in der Konfiguration des Blog Modules zu \u00e4ndern. Die automatische Installation legt entsprechend der gew\u00e4hlten Einstellungen alles n\u00f6tige an. Nach der Installation auf KEINEN FALL eine der automatisch angelegten Seiten, Templates, Templatedateien oder Felder \u00e4ndern, umbenennen oder l\u00f6schen! Alle Einstellungen sorgf\u00e4ltig ausw\u00e4hlen!"
+        },
+        "ee137c550dddaae6d095516b1caf5b2f": {
+            "text": "Falls diese Einstellungen ge\u00e4ndert werden sollten bitte <a href={$blogURL}>hier klicken<\/a> und auf der Blog Modul Konfigurationsseite diese \u00e4ndern und erst danach die Installation hier abschlie\u00dfen."
+        },
+        "907ff46aa7739a04ff50dc4c3d60a645": {
+            "text": "\u00c4nderungen sind optional. Die Seitentitel k\u00f6nnen sp\u00e4ter noch ge\u00e4ndert werden. Je nach gew\u00e4hltem Blog Stil stelle sicher das die Blogseitennamen und -titel nicht mit evtl. bereits existierenden Seiten in Konflikt geraten."
+        },
+        "13ceebaa344cf4989cf6392ad9cd9ab4": {
+            "text": "Die automatische Installation erstellt Templates, Templatedateien, Felder und eine Benutzerrolle. Falls eines der Eintr\u00e4ge mit gleichen Namen existiert wird die gesamte Installation gestoppt. Es wird nichts \u00fcberschrieben. Bitte sorgf\u00e4ltig Namenskonflikte pr\u00fcfen\/vermeiden."
+        },
+        "69f74efc43c275f470518dfaa3c6c4f2": {
+            "text": "Es wurde die Installation bereits mit folgenden Einstellungen abgeschlossen. Diese Einstellungen k\u00f6nnen erst ge\u00e4ndert werden wenn alle Blog Komponenten mit der Cleanup Funktion (Nur f\u00fcr Superuser sichtbar) deinstalliert werden."
+        },
+        "7ce6b2286a5396e614b8484105d277e0": {
+            "text": "M\u00e4r"
+        },
+        "195fbb57ffe7449796d23466085ce6d8": {
+            "text": "Mai"
+        },
+        "594be08882c8e9d5efb9eeb62f303744": {
+            "text": "Okt"
+        },
+        "d207b4e0bce42a8f1555ce3a05e287f6": {
+            "text": "Dez"
+        },
+        "34fa35029d6791273ffbe25d7a4c442f": {
+            "text": "W\u00e4hle eine oder mehrere Kategorien aus. Sortiere diese nach Relevanz."
+        },
+        "f886f59dcc24946c5fde16dcf6d49d4d": {
+            "text": "Ausw\u00e4hlen um Eintr\u00e4ge sofort zu ver\u00f6ffentlichen."
+        },
+        "122a05774113cd494d44a50e17914937": {
+            "text": "Schlagzeile"
+        },
+        "18c38074fd81ec50282ce47508ba99f5": {
+            "text": "Blog Startseite: Artikel Gesamt"
+        },
+        "10b631db9449eb8a582ae16b0d7a660c": {
+            "text": "Artikel - Kurztext Zeichen (Standard=450)"
+        },
+        "3cc13a25974069df76e592ec4f9577e5": {
+            "text": "Kommentare: Anzahl pro Seite"
+        },
+        "2026830f29566271bb2c7bc41dfbc721": {
+            "text": "Kommentare: Maximale Anzahl pro Artikel"
+        },
+        "2df7c96a522a0167bddb59fce6debd3e": {
+            "text": "Kommentare Sichtbarkeit"
+        },
+        "bc5c6e5b8140a9b932f67fc7c77145b4": {
+            "text": "Erweiterung: Anzahl letzte Artikel"
+        },
+        "9fdd97a3aa09834fcf4ad11e6a6c3d11": {
+            "text": "Erweiterung: Anzahl letzte Kommentare"
+        },
+        "cf0a3ac9610fde35d491408e8cd6e389": {
+            "text": "Erweiterung: Anzahl letzte Tweets"
+        },
+        "259c127ac3c4eaeda6244a96e70be80f": {
+            "text": "Twitter Name"
+        },
+        "479b5733fc732e7a7d6159e50dcd17cb": {
+            "text": "Der installierte Blog Stil ist #"
+        }
+    }
+}
