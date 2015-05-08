@@ -1,0 +1,111 @@
+{
+    "file": "site\/modules\/ProcessBlog\/MarkupBlog.module",
+    "textdomain": "site--modules--processblog--markupblog-module",
+    "translations": {
+        "fbdcd67a8c0866f24436d04ddb70c78c": {
+            "text": "Artikel, Artikel"
+        },
+        "19a228f928b107796195c5f2e747fc58": {
+            "text": "Keine Kategorie vorhanden."
+        },
+        "b869993b9e9305a5028b33ee8b221dd4": {
+            "text": "weiterlesen"
+        },
+        "bf1981220040a8ac147698c85d55334f": {
+            "text": "RSS"
+        },
+        "d8d7ad6abfd08c27baa8bedb78c72ddb": {
+            "text": "Alle anzeigen"
+        },
+        "03d947a2158373c3b9d74325850cb8b9": {
+            "text": "Artikel"
+        },
+        "67c6a14173727312f1e8d615e6122e1d": {
+            "text": "Keine Artikel gefunden"
+        },
+        "24ad95557100e42e28ea73335e4e8ad1": {
+            "text": "Ver\u00f6ffentlicht von"
+        },
+        "8c38776925f7cf41c090646a43157024": {
+            "text": "Kategorien"
+        },
+        "32b502f33a535f75dcbf63f6753c631e": {
+            "text": "Stichwort"
+        },
+        "f3a648d591b6c76efb96f7a77071d23c": {
+            "text": "Keine Kommentare verf\u00fcgbar."
+        },
+        "38457222dd7c5930bc9bf220011ebef0": {
+            "text": "Kommentar, Kommentare"
+        },
+        "c14a0ca9550a8b311dbf7acbb3e6cac4": {
+            "text": "Kommentare:"
+        },
+        "de95b43bceeb4b998aed4aed5cef1ae7": {
+            "text": "bearbeiten"
+        },
+        "abfe3ad93d037f6333f08cdd853c9730": {
+            "text": "Kommentare deaktiviert in diesem Artikel."
+        },
+        "7a49eec0fc20bc1bd8a270483961ea1e": {
+            "text": "Kommentare nicht erlaubt in diesem Artikel."
+        },
+        "4fd07b393e79abc10fc92ed4f0eebb63": {
+            "text": "Schreibe den ersten Kommentar"
+        },
+        "4cbefc3628b2c9d798cd8b2456d498a4": {
+            "text": "Du must eingeloggt sein um einen Kommentar zu schreiben."
+        },
+        "a3676fa92ee7acc9486a220da4580c7e": {
+            "text": "Vielen Dank - Deine Eingaben wurden gespeichert."
+        },
+        "4deaf3b48b1e43dab4d27af70c55619b": {
+            "text": "Die Eingaben wurden aufgrund eines, oder mehrerer Fehler nicht gespeichert. Bitte erneut versuchen."
+        },
+        "7640e9e347488b0537ea4732db7ce9ab": {
+            "text": "Keine Kommentare gefunden."
+        },
+        "09c246740e57b25e38a20bb1f9a24b8f": {
+            "text": "beantwortet"
+        },
+        "594af461057e16398a9ea8a1584597f0": {
+            "text": "Kommentar von"
+        },
+        "1f274a15679cb9dc6bfe36221f4354fb": {
+            "text": "Schreib einen Kommentar"
+        },
+        "0557fa923dcee4d0f86b1409f5c2167f": {
+            "text": "Zur\u00fcck"
+        },
+        "10ac3d04253ef7e1ddc73e6091c0cd55": {
+            "text": "N\u00e4chster"
+        },
+        "c69f06e1a9b016d133907b4e5f5864d2": {
+            "text": "AUSSTEHEND"
+        },
+        "c72beebe6ecbdddff71b846c4858ebcb": {
+            "text": "SPAM"
+        },
+        "347e628a8f72626a0611ef842fe9d304": {
+            "text": "VERSTECKT"
+        },
+        "a517747c3d12f99244ae598910d979c5": {
+            "text": "Autor"
+        },
+        "a5158728109d8e67ae31b7b02bdc8b86": {
+            "text": "%1$d bis %2$d von %3$d"
+        },
+        "73cb1f71e6f48e429973ac8877f089dd": {
+            "text": "%1$s %2$s von %3$s"
+        },
+        "f8940d5e5d672bcda8c55c21aae09474": {
+            "text": "%1$s %2$s %3$s von %4$s"
+        },
+        "d42d3a059f66d7c7922c501182602073": {
+            "text": "%d Artikel"
+        },
+        "96d2fb5e7d8d946eaad05f309ae96e7c": {
+            "text": "%d Artikel"
+        }
+    }
+}
