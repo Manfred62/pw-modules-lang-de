@@ -1,0 +1,12 @@
+{
+    "file": "site\/modules\/ProcessBlog\/template-files\/blog-recent-posts.php",
+    "textdomain": "site--modules--processblog--template-files--blog-recent-posts-php",
+    "translations": {
+        "d3da97e2d9aee5c8fbe03156ad051c99": {
+            "text": "Mehr"
+        },
+        "bf1981220040a8ac147698c85d55334f": {
+            "text": "RSS"
+        }
+    }
+}
