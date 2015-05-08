@@ -1,0 +1,12 @@
+{
+    "file": "site\/modules\/ProcessBlog\/template-files\/blog-recent-tweets.php",
+    "textdomain": "site--modules--processblog--template-files--blog-recent-tweets-php",
+    "translations": {
+        "7450c540d4c3fef04b723fdeadbc6842": {
+            "text": "Letzte Tweets"
+        },
+        "d3da97e2d9aee5c8fbe03156ad051c99": {
+            "text": "Mehr"
+        }
+    }
+}
