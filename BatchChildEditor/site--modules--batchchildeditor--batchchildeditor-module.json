@@ -1,0 +1,318 @@
+{
+    "file": "site\/modules\/BatchChildEditor\/BatchChildEditor.module",
+    "textdomain": "site--modules--batchchildeditor--batchchildeditor-module",
+    "translations": {
+        "3d5066e7d009f187540f58fc3e8b218f": {
+            "text": "Ein \"title\" Feld muss in den Datenpaaren der CSV Daten existieren, ansonsten ist nur der \"Bearbeiten\" und \"Aktualisieren\" Modus verf\u00fcgbar."
+        },
+        "86f080d4ce86027453a40818e17ed32c": {
+            "text": "Die CSV Datei ist leer - es konnten keine Seiten angelegt werden."
+        },
+        "41cfba8757acb5cd0f889753e8c658a5": {
+            "text": "Diese Seiten k\u00f6nnen nicht ersetzt werden, da mindestens eine Seite eine eigene Kindseite hat. Seiten mit der \"Bearbeiten\" Option \u00e4ndern, oder die Kindseiten zuerst l\u00f6schen."
+        },
+        "cea058fd1a83b6deee57e23608983244": {
+            "text": "Diese Seiten k\u00f6nnen nicht ersetzt werden, da mindestens eine Seite ein nicht leeres Feld hat. Seiten mit der \"Bearbeiten\" Option \u00e4ndern, oder die Kindseiten zuerst l\u00f6schen."
+        },
+        "decbbb71d9956db2c759b381dacaaac2": {
+            "text": "Diese Kindseiten k\u00f6nnen nicht gel\u00f6scht werden, da sie eigene Kindseiten haben. Diese Sperre kann \u00fcber die Modul Einstellung ausgeschalten werden (deaktiviere Content Schutz)."
+        },
+        "855e0d2957ec062bd6f600d3775c0631": {
+            "text": "Diese Kindseiten k\u00f6nnen nicht gel\u00f6scht werden, da nicht leere Felder vorhanden sind. Diese Sperre kann \u00fcber die Modul Einstellung ausgeschalten werden (deaktiviere Content Schutz)."
+        },
+        "fc7cfbc3ad9d731c534ffa4b7799bbd4": {
+            "text": "Diese CSV Datei hat eine nicht erlaubte Dateierweiterung im Namen. Nur die Erweiterungen .csv, .tsv, .txt sind erlaubt."
+        },
+        "1b00d97379fa8617f2db305677b1a58c": {
+            "text": "Die Anzahl der Spalten\/Felder in der CSV Datei stimmt nicht mit der Anzahl der Felder im Template \u00fcberein. Es konnte nicht importiert werden. Sollen bestimmte Felder ausgelassen werden, sollten diese in der CSV Datei mit leeren Eintr\u00e4gen versehen werden."
+        },
+        "c739e97155972e40dde563f7a8dbcceb": {
+            "text": "Die Anzahl der Spalten\/Felder in der CSV Datei ist niedrieger als die Anzahl der definierten Felder. Es konnte nichts importiert werden."
+        },
+        "252d93051ef40f49b276f16718f1454d": {
+            "text": "Benutze den Batch Child Editor"
+        },
+        "b34d9aa8f769ce9c68e4edb2241100af": {
+            "text": "Neue Berechtigung erstellt: batch-child-editor"
+        },
+        "bc6dd01d64943a42ce4cbb9fba00df53": {
+            "text": "batch-child-editor Berechtigung dem Benutzer superuser zugewiesen"
+        },
+        "f42133f2717e47d14c507025d1b4b6eb": {
+            "text": "Berechtigung gel\u00f6scht: batch-child-editor"
+        },
+        "c1ffc3c5efe54e86052aa345fa749be3": {
+            "text": "Batch Child Editor - Einstellungen"
+        },
+        "a5df022c422c1f13f86b43e9609a1362": {
+            "text": "Stapelbearbeitung \/ Erstellung"
+        },
+        "23ff99157dafd3dae7a102d9962633d0": {
+            "text": "Bearbeitungsmodus"
+        },
+        "4e4b62a2d19fdd7f549170dd1e1323c8": {
+            "text": "Kind Template"
+        },
+        "fbd6ad5dda808733881e159c848d5f2b": {
+            "text": "W\u00e4hle ein Template f\u00fcr neu erstellte Kindseiten aus"
+        },
+        "c08c500d74978069ab236599e32e3c2b": {
+            "text": "Namen \u00fcberschreiben"
+        },
+        "33e0a5fbbe494db44405698fe1fa9641": {
+            "text": "Legt fest ob auch die Namen der Seite und nicht nur der Titel \u00fcberschrieben werden sollen."
+        },
+        "b9bec9c6a892e69e3382a3f32871bffe": {
+            "text": "Diese Option kann Probleme verursachen, wenn betroffene Seiten Teil des Frontends und\/oder der Seitenstruktur sind. (z.B. ung\u00fcltige Links usw.)"
+        },
+        "d94879bb1e28cc2e1e51637caee0f8c8": {
+            "text": "CSV Import Einstellungen"
+        },
+        "71377b96a9f001b378ef81e867460e54": {
+            "text": "CSV Felder sind getrennt mit"
+        },
+        "8423e823791355db8da4e66cf695e02c": {
+            "text": "Eingabe f\u00fcr Tabulator getrennte Werte: tab"
+        },
+        "87a08f023f4f741977b9ce384444458e": {
+            "text": "CSV Feldbegrenzerzeichen"
+        },
+        "9068c7c6606b2f7929738f766ae0c171": {
+            "text": "CSV - Erste Zeile ingnorieren"
+        },
+        "5d96bb959433b2fa6c267aae9fcb86b9": {
+            "text": "Diese Einstellung ist wichtig wenn die erste Zeile der CSV Datei die Spalten\u00fcberschriften enth\u00e4lt."
+        },
+        "f0afe2847967804394db8e47df1486d0": {
+            "text": "Text \/ Einf\u00fcgen CSV"
+        },
+        "84be7fb115d62b0845780484f06f14dc": {
+            "text": "Wenn die erste Zeile \"Title\" ist, ist in den Einstellungen aktiviert die erste Zeile zu ignorieren."
+        },
+        "65f91274cd6a20f431379bac170bc628": {
+            "text": "Eine URL zur CSV Datei angeben"
+        },
+        "1c240cc4ca07a74641043f833986dda2": {
+            "text": "URL\/Link zur CSV Datei"
+        },
+        "c3112b719ff37115418799acdfed0fcb": {
+            "text": "CSV Datei hochladen"
+        },
+        "6b46ae48421828d9973deec5fa9aa0c3": {
+            "text": "Sortieren"
+        },
+        "b78a3223503896721cca1303f776159b": {
+            "text": "Titel"
+        },
+        "4351cfebe4b61d8aa5efa1d020710005": {
+            "text": "Anzeigen"
+        },
+        "7dce122004969d56ae2e0245cb754d35": {
+            "text": "Bearbeiten"
+        },
+        "f2a6c498fb90ee345d997f888fce3b18": {
+            "text": "L\u00f6schen"
+        },
+        "369f1c0820ea7937da65b3fa49d6bfd0": {
+            "text": "Wo soll die Stapelbearbeitung zur Verf\u00fcgung gestellt werden? (Aktivierung)"
+        },
+        "d77150358633e62f730ca5f527c6a55f": {
+            "text": "Aktivierte Templates"
+        },
+        "c74e3de23e80ff575495391d5ea91ea2": {
+            "text": "Die Stapelverarbeitung ist nur verf\u00fcgbar f\u00fcr die ausgew\u00e4hlten Templates.\/nNB Leer lassen, um alle Templates zu erlauben."
+        },
+        "f5464f363e94a6eb41c45262121bd6b4": {
+            "text": "Aktivierte Seiten"
+        },
+        "69931ae7086e0f2d06d54852f580f7a8": {
+            "text": "Die Stapelverarbeitung ist nur verf\u00fcgbar f\u00fcr die ausgew\u00e4hlten Seiten.\/nNB Leer lassen, um alle Seiten zu erlauben."
+        },
+        "e692ca5f85ce77222c19cbdf7fde166f": {
+            "text": "Aktivere Seite"
+        },
+        "e9f1c3a94732c1828f19b621373dd97e": {
+            "text": "Konfigurierbare Seiten"
+        },
+        "53b7730753ba6e1c5feae8bbc22364b3": {
+            "text": "Ausgew\u00e4hlte Seiten k\u00f6nnen ihre eigenen Einstellungen f\u00fcr den Batch Child Editor haben - diese werden im Einstellungs Tab hinzugef\u00fcgt. F\u00fcr alle anderen Seiten gelten die allgemeinen Einstellungen in der Modul-Konfiguration."
+        },
+        "f47eb21a2cdee8d02e48a372b5c30504": {
+            "text": "Modus Einstellungen"
+        },
+        "b4b7470847824e3cc0391dd0448fdb4e": {
+            "text": "Bearbeitungsmodus"
+        },
+        "67c2ed2a7ee07ee80affc66d856c84fc": {
+            "text": "Welche Funktionen sollen aktiviert werden. Bei Mehrfachauswahl kann der Benutzer entscheiden."
+        },
+        "a4046c382e23aab6a6425af5f20bd5fd": {
+            "text": "Der Bearbeitungs- und Hinzuf\u00fcgenmodus ist sicherer als der Aktualisieren- und Ersetzenmodus, weil diese nicht destruktiv sind.\/n\/n Update bearbeitet die Inhalte aller Felder existierender Seiten, Ersetzen l\u00f6scht alle Kindseiten und erstellt neue Seiten."
+        },
+        "bd997cda7b6f2ec26fbf414ceecb4b15": {
+            "text": "Standardmodus"
+        },
+        "1ee37d96d238ba39a11a7dbdc16030ba": {
+            "text": "Falls mehrere Funktionen zur Auswahl stehen, welche soll standardm\u00e4\u00dfig ge\u00f6ffnet sein?"
+        },
+        "c572d18c27148c3ea29abc284e850368": {
+            "text": "Nur relevant f\u00fcr den Bearbeiten- und Aktualisierenmodus. Diese Option kann Probleme verursachen, wenn betroffene Seiten Teil des Frontends und\/oder der Seitenstruktur sind. (z.B. ung\u00fcltige Links usw.)"
+        },
+        "ee6237c26845f23e32c38ba356211858": {
+            "text": "Benutzern erlauben die \"Namen \u00fcberschreiben\" Option auszuw\u00e4hlen"
+        },
+        "9cc1777ee218ad33781f78ae084dc330": {
+            "text": "Einem Admin Benutzer erlauben die \u00fcberschreiben Option auszuw\u00e4hlen."
+        },
+        "b42ec8a820eb6db9a074766d75bd763c": {
+            "text": "Nur relevant f\u00fcr den Bearbeiten- und Aktualisierenmodus."
+        },
+        "99368d5a7eda54bfe1af18cd66885648": {
+            "text": "Deaktiviere Content Schutz"
+        },
+        "1a9be9e7874ec726b663c72b11d18ed8": {
+            "text": "Wenn diese Option ausgew\u00e4hlt ist, werden destruktiv beim Ersetzen Modus alle Kindseiten ersetzt, egal ob zus\u00e4tzliche Felder, oder eigene Kidnseiten vorhanden sind. Zus\u00e4tzlich wird im Bearbeiten Modus erlaubt Seiten mit eigenen Kindseiten zu l\u00f6schen."
+        },
+        "0e4b4e8568aef2867547c81236a16ab5": {
+            "text": "Diese Einstellung kann extrem destruktiv sein, bitte mit Vorsicht anwenden!"
+        },
+        "fda343210c3220dbe4b10e330bbfac49": {
+            "text": "Daten Eintr\u00e4ge \/ CSV Einstellungen"
+        },
+        "10231cc82f4376ff3cf31a9fdfafbfbe": {
+            "text": "Daten\u00fcbertragungsoptionen"
+        },
+        "d91c81c65e2b36cae27c1395df620e00": {
+            "text": "Welche M\u00f6glichkeiten soll aktiviert werden um neue Seiten anzulegen und\/oder erneuern, ersetzen."
+        },
+        "43324c227a8933d3b30d164abb021ff5": {
+            "text": "Um schnell Seiten mit Titel und Namen zu erstellen reicht meistens Text \/ Einf\u00fcgen. Die zus\u00e4tzlichen Optionen werden relevant wenn zus\u00e4tzliche Felder und andere Funktionen beim Importieren von Daten wichtig sind."
+        },
+        "68ed30f9abe6a31ace95b124d821ae4f": {
+            "text": "Optische Darstellung der \u00dcbertragungsoptionen"
+        },
+        "a09eedc9ba0f0f74d0fd19ee225fca4d": {
+            "text": "Welche Optionen sollen ge\u00f6ffnet oder geschlossen angezeigt werden."
+        },
+        "8f88fe44847d05410e62870609ce28c4": {
+            "text": "Die ausgew\u00e4hlten Optionen werden ge\u00f6ffnet dargestellt."
+        },
+        "e2559b5c9643b00f569278ac1e1f02d0": {
+            "text": "CSV Feldpaare"
+        },
+        "da3ace92a91614f49fe5f439c51605c7": {
+            "text": "Bitte eine CSV Spalten Nummer und ein Processwire Feld angegeben, um diese beim Import zu verkn\u00fcpfen. Falls leer werden alle CSV Spalten in der Reihenfolge der Processwire Felder importiert. Diese Anzahl der Felder \/ Spalten muss identisch sein."
+        },
+        "0d9fb78950d432805ff19aff0a258974": {
+            "text": "Spaltennummern beginnen bei 1, in diesem Beispiel lassen wir die 3. Spalte der CSV Datei aus Datei:\/n1:title\/n2:body\/n4:notes\/n5:parentfield.subfield\/n\/nNB In den Modi \"Bearbeiten\" und \"Aktualisieren\" muss mindestens das \"title\" Feld angegeben werden, alle anderen Felder sind dann optional."
+        },
+        "9babec9fb3cf044d0176b5e6faa45499": {
+            "text": "Benutzer kann CSV Einstellungen \u00fcberschreiben"
+        },
+        "cc7e1547dee384d08bba62f3754d788d": {
+            "text": "Erlaubt dem Benutzer CSV Separator, Feldtrennzeichen und Einstellung f\u00fcr die erste Zeile zu \u00e4ndern."
+        },
+        "e954373cde71ad002f5298a613295543": {
+            "text": "L\u00f6sch- und Positionseinstellungen"
+        },
+        "96aa22d927fdde78976cdc54a971342d": {
+            "text": "Papierkorb oder L\u00f6schen"
+        },
+        "2e20d9728c628b4d0ac4fb094b0590d8": {
+            "text": "Einstellung ob gel\u00f6schte Seiten in den Papierkorb verschoben werden, oder sofort permanent gel\u00f6scht werden sollen."
+        },
+        "3d15a3b193c82adcce131a836fa2ee33": {
+            "text": "Legt die Position des Batch Child Editors fest. \"Ersetzen\" Option tauscht den Batch child Editor gegen den Tab des Core's f\u00fcr die Unterseiten aus. \"Neuer Tab\" erstellt f\u00fcr den Editor einen komplett neuen Reiter."
+        },
+        "6ffdf151aed25466524dc37e2aa9dcdb": {
+            "text": "Ge\u00f6ffnet laden, nicht eingeklappt"
+        },
+        "ac3a87a8fe6e7950b22779f191c0a736": {
+            "text": "Wenn diese Option ausgew\u00e4hlt ist \u00f6ffnet sich der Editor ge\u00f6ffnet und nicht eingeklappt."
+        },
+        "8e753068ca410f0f695f0dd52a975c20": {
+            "text": "Name des Reiters"
+        },
+        "2d63b53b5b5390bbb8426008fc6905fc": {
+            "text": "Name f\u00fcr den neuen Reiter"
+        },
+        "8dde50fae88445ab55e92665dc0f39c5": {
+            "text": "Eigene Beschriftungen, Beschreibungen und Anweisungen"
+        },
+        "3790ea72ca1d1aba3fb7ed8890366c4b": {
+            "text": "Bearbeitungsmodus Titel"
+        },
+        "eceb5d84c8d59c1f3b3779fbbab23dc2": {
+            "text": "Eigener Titel des Bearbeitungsmodus"
+        },
+        "dcbf34c054faa2adcc811971a2d94e7c": {
+            "text": "Bearbeitungsmodus Beschreibung"
+        },
+        "57cebdd530ffd29c8620746f210eae9d": {
+            "text": "Eigene Beschreibung im Bearbeitungsmodus"
+        },
+        "a1a7cfba06b76dfd72088bab463551b7": {
+            "text": "Bearbeitungsmodus Anweisungen"
+        },
+        "6478f2c32804c86159e390e0f1bb228e": {
+            "text": "Eigene Anweisungen im Bearbeitungsmodus"
+        },
+        "8e8c89b0f9b518395d5ebadfa03771d0": {
+            "text": "Hinzuf\u00fcgenmodus Titel"
+        },
+        "b80b67d65c1f6ed07aa48c8f8b992777": {
+            "text": "Eigener Titel des Hinzuf\u00fcgenmodus"
+        },
+        "b308692b6042ae36f342839517aa8d5c": {
+            "text": "Hinzuf\u00fcgenmodus Beschreibung"
+        },
+        "5f6230a31ef1e991fbc4fa1a30f27ec9": {
+            "text": "Eigene Beschreibung im Hinzuf\u00fcgenmodus"
+        },
+        "32e7a254823d3ffb144c3b6fa89f9ec3": {
+            "text": "Hinzuf\u00fcgenmodus Anweisungen"
+        },
+        "811fe028932578b018ac4597fb58692a": {
+            "text": "Eigene Anweisungen im Hinzuf\u00fcgenmodus"
+        },
+        "f122c5be9294f431784e7595d54c0d36": {
+            "text": "Aktualisierungsmodus Titel"
+        },
+        "5948aef8997265e57cc0842bc2074253": {
+            "text": "Eigener Titel des Aktualisierungsmodus"
+        },
+        "4e732eec3ab28c1892dd2800bcfb5bc0": {
+            "text": "Aktualisierungsmodus Beschreibung"
+        },
+        "7d3845964f8a325db6ed5c59caaf9577": {
+            "text": "Eigene Beschreibung im Aktualisierungsmodus"
+        },
+        "fa940b0471dd46d904ecaa11be3edfaf": {
+            "text": "Aktualisierungsmodus Anweisungen"
+        },
+        "2e982c4b26e9d048c12934fdf49e3719": {
+            "text": "Ersetzenmodus Titel"
+        },
+        "d556bd67612a2a10c83e1e2fb90f831d": {
+            "text": "Eigener Titel des Ersetzenmodus"
+        },
+        "39494c41d40b8bb5237ad3b382fc70ce": {
+            "text": "Ersetzenmodus Beschreibung"
+        },
+        "a43f5c085ba0240311b98bf13e974ac4": {
+            "text": "Eigene Beschreibung im Ersetzenmodus"
+        },
+        "d23f88166bc20ce9eff7157dcdf6c6ab": {
+            "text": "Ersetzenmodus Anweisungen"
+        },
+        "d02df721111f58d691538543749d7ce0": {
+            "text": "Neu hinzuf\u00fcgen"
+        },
+        "f576e86ed474dc1e95e52cb1d78ca56e": {
+            "text": "Eigene Anweisungen im Aktualisierungsmodus"
+        },
+        "69f42f2d4537b7f54ef2e804c6831f34": {
+            "text": "Eigene Anweisungen im Ersetzenmodus"
+        }
+    }
+}
