@@ -5,6 +5,7 @@ This is a small collection of german translation files for ProcessWire modules.
 Dies ist eine kleine Sammlung von deutschen Übersetzungsdateien für ProcessWire Module.
 
 ### Modules translated
+* BatchChildEditor (by mr-fan)
 * CroppableImage
 * DynamicRoles
 * FieldtypeCropImage (Thumbnails)
