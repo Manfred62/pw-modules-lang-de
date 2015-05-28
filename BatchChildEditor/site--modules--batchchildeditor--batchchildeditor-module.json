@@ -2,9 +2,6 @@
     "file": "site\/modules\/BatchChildEditor\/BatchChildEditor.module",
     "textdomain": "site--modules--batchchildeditor--batchchildeditor-module",
     "translations": {
-        "3d5066e7d009f187540f58fc3e8b218f": {
-            "text": "Ein \"title\" Feld muss in den Datenpaaren der CSV Daten existieren, ansonsten ist nur der \"Bearbeiten\" und \"Aktualisieren\" Modus verf\u00fcgbar."
-        },
         "86f080d4ce86027453a40818e17ed32c": {
             "text": "Die CSV Datei ist leer - es konnten keine Seiten angelegt werden."
         },
@@ -46,9 +43,6 @@
         },
         "a5df022c422c1f13f86b43e9609a1362": {
             "text": "Stapelbearbeitung \/ Erstellung"
-        },
-        "23ff99157dafd3dae7a102d9962633d0": {
-            "text": "Bearbeitungsmodus"
         },
         "4e4b62a2d19fdd7f549170dd1e1323c8": {
             "text": "Kind Template"
@@ -119,17 +113,8 @@
         "d77150358633e62f730ca5f527c6a55f": {
             "text": "Aktivierte Templates"
         },
-        "c74e3de23e80ff575495391d5ea91ea2": {
-            "text": "Die Stapelverarbeitung ist nur verf\u00fcgbar f\u00fcr die ausgew\u00e4hlten Templates.\/nNB Leer lassen, um alle Templates zu erlauben."
-        },
         "f5464f363e94a6eb41c45262121bd6b4": {
             "text": "Aktivierte Seiten"
-        },
-        "69931ae7086e0f2d06d54852f580f7a8": {
-            "text": "Die Stapelverarbeitung ist nur verf\u00fcgbar f\u00fcr die ausgew\u00e4hlten Seiten.\/nNB Leer lassen, um alle Seiten zu erlauben."
-        },
-        "e692ca5f85ce77222c19cbdf7fde166f": {
-            "text": "Aktivere Seite"
         },
         "e9f1c3a94732c1828f19b621373dd97e": {
             "text": "Konfigurierbare Seiten"
@@ -139,12 +124,6 @@
         },
         "f47eb21a2cdee8d02e48a372b5c30504": {
             "text": "Modus Einstellungen"
-        },
-        "b4b7470847824e3cc0391dd0448fdb4e": {
-            "text": "Bearbeitungsmodus"
-        },
-        "67c2ed2a7ee07ee80affc66d856c84fc": {
-            "text": "Welche Funktionen sollen aktiviert werden. Bei Mehrfachauswahl kann der Benutzer entscheiden."
         },
         "a4046c382e23aab6a6425af5f20bd5fd": {
             "text": "Der Bearbeitungs- und Hinzuf\u00fcgenmodus ist sicherer als der Aktualisieren- und Ersetzenmodus, weil diese nicht destruktiv sind.\/n\/n Update bearbeitet die Inhalte aller Felder existierender Seiten, Ersetzen l\u00f6scht alle Kindseiten und erstellt neue Seiten."
@@ -168,16 +147,10 @@
             "text": "Nur relevant f\u00fcr den Bearbeiten- und Aktualisierenmodus."
         },
         "99368d5a7eda54bfe1af18cd66885648": {
-            "text": "Deaktiviere Content Schutz"
-        },
-        "1a9be9e7874ec726b663c72b11d18ed8": {
-            "text": "Wenn diese Option ausgew\u00e4hlt ist, werden destruktiv beim Ersetzen Modus alle Kindseiten ersetzt, egal ob zus\u00e4tzliche Felder, oder eigene Kidnseiten vorhanden sind. Zus\u00e4tzlich wird im Bearbeiten Modus erlaubt Seiten mit eigenen Kindseiten zu l\u00f6schen."
+            "text": "Deaktiviere Inhalt Schutz"
         },
         "0e4b4e8568aef2867547c81236a16ab5": {
             "text": "Diese Einstellung kann extrem destruktiv sein, bitte mit Vorsicht anwenden!"
-        },
-        "fda343210c3220dbe4b10e330bbfac49": {
-            "text": "Daten Eintr\u00e4ge \/ CSV Einstellungen"
         },
         "10231cc82f4376ff3cf31a9fdfafbfbe": {
             "text": "Daten\u00fcbertragungsoptionen"
@@ -203,17 +176,11 @@
         "da3ace92a91614f49fe5f439c51605c7": {
             "text": "Bitte eine CSV Spalten Nummer und ein Processwire Feld angegeben, um diese beim Import zu verkn\u00fcpfen. Falls leer werden alle CSV Spalten in der Reihenfolge der Processwire Felder importiert. Diese Anzahl der Felder \/ Spalten muss identisch sein."
         },
-        "0d9fb78950d432805ff19aff0a258974": {
-            "text": "Spaltennummern beginnen bei 1, in diesem Beispiel lassen wir die 3. Spalte der CSV Datei aus Datei:\/n1:title\/n2:body\/n4:notes\/n5:parentfield.subfield\/n\/nNB In den Modi \"Bearbeiten\" und \"Aktualisieren\" muss mindestens das \"title\" Feld angegeben werden, alle anderen Felder sind dann optional."
-        },
         "9babec9fb3cf044d0176b5e6faa45499": {
             "text": "Benutzer kann CSV Einstellungen \u00fcberschreiben"
         },
         "cc7e1547dee384d08bba62f3754d788d": {
             "text": "Erlaubt dem Benutzer CSV Separator, Feldtrennzeichen und Einstellung f\u00fcr die erste Zeile zu \u00e4ndern."
-        },
-        "e954373cde71ad002f5298a613295543": {
-            "text": "L\u00f6sch- und Positionseinstellungen"
         },
         "96aa22d927fdde78976cdc54a971342d": {
             "text": "Papierkorb oder L\u00f6schen"
@@ -313,6 +280,141 @@
         },
         "69f42f2d4537b7f54ef2e804c6831f34": {
             "text": "Eigene Anweisungen im Ersetzenmodus"
+        },
+        "c74e3de23e80ff575495391d5ea91ea2": {
+            "text": "Die Stapelverarbeitung ist nur verf\u00fcgbar f\u00fcr die ausgew\u00e4hlten Templates.\/nNB Leer lassen, um alle Templates zu erlauben."
+        },
+        "69931ae7086e0f2d06d54852f580f7a8": {
+            "text": "Die Stapelverarbeitung ist nur verf\u00fcgbar f\u00fcr die ausgew\u00e4hlten Seiten.\/nNB Leer lassen, um alle Seiten zu erlauben."
+        },
+        "14861727487e4c1f87f60aaa3df16a0d": {
+            "text": "Ein \"title\" Feld muss in den Datenpaaren der CSV Daten existieren, ansonsten ist nur der \"Bearbeiten\" und \"Aktualisieren\" Modus verf\u00fcgbar."
+        },
+        "798ae39e07179d9153fbf06a27f6c8aa": {
+            "text": "Name (von URL)"
+        },
+        "ac70412e939d72a9234cdebb1af5867b": {
+            "text": "Pfad"
+        },
+        "ba989292c988a2d8cc2131b51e13de72": {
+            "text": "Erstellungsdatum"
+        },
+        "96ec8f79321400ed51d9d127ef9bf9da": {
+            "text": "\u00c4nderungsdatum"
+        },
+        "28b2c2f40e674c99b884beabf6634c4c": {
+            "text": "Erstellt von Benutzer: ID"
+        },
+        "cbbf1121edceaaf47c02a9110799d258": {
+            "text": "Erstellt von Benutzer: name"
+        },
+        "d10476dc4e15b6261b5e86ef0d2295a5": {
+            "text": "Ge\u00e4ndert von Benutzer: ID"
+        },
+        "f5c485920ac52ac3ca25ad89cb0e52d1": {
+            "text": "Ge\u00e4ndert von Benutzer: Name"
+        },
+        "4709f48407d548858cd3653e360def50": {
+            "text": "Elternseite ID"
+        },
+        "a7f9b993b92bdbd7c0c6a3c7e7ccb82f": {
+            "text": "Elternseite Name"
+        },
+        "650be61892bf690026089544abbd9d26": {
+            "text": "Modus"
+        },
+        "a1926ac0aa7eb0aa92de995ec3ba0cba": {
+            "text": "Felder zum exportieren"
+        },
+        "26687ea37c746d0bac62dbf1d3d5eee9": {
+            "text": "Felder f\u00fcr den CSV Export ausw\u00e4hlen und sortieren"
+        },
+        "f70065d6aa31942aa777eeb27acd6710": {
+            "text": "Spalten getrennt mit"
+        },
+        "45cc3d9a472ae2aad0466a858ff84cd3": {
+            "text": "Spalten beinhalten"
+        },
+        "e890db27ea11209ef49b6cc61a177448": {
+            "text": "Datei Erweiterung"
+        },
+        "101241d77b86972add12d9734b29686e": {
+            "text": "Trennzeichen f\u00fcr mehrere Werte"
+        },
+        "f77171c009f5ec3e5df7412820e36fbb": {
+            "text": "Trennzeichen f\u00fcr mehrere Werte wie Seitenfelder, Dateien\/Bilder, Multiplikatoren, usw."
+        },
+        "f3f27eb34caff0fdb067c02a72a5ff61": {
+            "text": "Standard ist | Andere n\u00fctzliche Optionen enthalten \\r f\u00fcr neue Zeile beim importieren in Excel."
+        },
+        "ced6dc81995c5b5bcf0bccdb9fc9bb95": {
+            "text": "Spalten Label"
+        },
+        "39e5859fece7a51dcd82486807bda2b9": {
+            "text": "Modi"
+        },
+        "e3e988272c61dc25972cd02d08080adb": {
+            "text": "Welche Funktionen sollen aktiviert werden. Bei Mehrfachauswahl kann der Benutzer entscheiden."
+        },
+        "a09adefd523b23d5338dab196ba3f03b": {
+            "text": "Inhalt L\u00f6schung \/ Schutz"
+        },
+        "a3299c6a9c215c7e59263760de1d3e50": {
+            "text": "Wenn diese Option ausgew\u00e4hlt ist, werden destruktiv beim Ersetzen Modus alle Kindseiten ersetzt, egal ob zus\u00e4tzliche Felder, oder eigene Kindseiten vorhanden sind. \nZus\u00e4tzlich wird im Bearbeiten Modus erlaubt Seiten mit eigenen Kindseiten zu l\u00f6schen."
+        },
+        "2c99a5b1c00ba3b9378a55e057fb0177": {
+            "text": "\u00c4nderungen an Templates erlauben"
+        },
+        "c2fb41b87b93ee9daaad651e1d67b3d1": {
+            "text": "Dateneingabe \/ CSV Import Einstellungen"
+        },
+        "4b568a427930a494b5dca76ba3029e68": {
+            "text": "Spaltennummern beginnen bei 1, in diesem Beispiel lassen wir die 3. Spalte der CSV Datei aus Datei:\/n1:title\/n2:body\/n4:notes\/n5:parentfield.subfield\/n\/nNB In den Modi \"Bearbeiten\" und \"Aktualisieren\" muss mindestens das \"title\" Feld angegeben werden, alle anderen Felder sind dann optional."
+        },
+        "6686b74a793b1392f4a37f72b6dd0245": {
+            "text": "CSV Export Einstellungen"
+        },
+        "652e497c8538a27351c168b68367496f": {
+            "text": "Namen der Spalten in erste Zeile setzen"
+        },
+        "84871d5e008294638ac76e32ede3c0aa": {
+            "text": "Einstellungen der Editorposition"
+        },
+        "5ac7468509f61dc0b6a6b214ee6bc835": {
+            "text": "Exportmodus Titel"
+        },
+        "694409ba2c9cea6f96e2458d4342c563": {
+            "text": "Eigener Titel f\u00fcr den Exportmodus."
+        },
+        "c722693655bfe40753d52c5432d02c9d": {
+            "text": "Exportmodus Beschreibung"
+        },
+        "4d1ba5b0eade6fbb147cb6f25789dcb2": {
+            "text": "Eigener Text zur Beschreibung im Exportmodus."
+        },
+        "a88bacb3d1acf1f2634c12d4ef6c2938": {
+            "text": "Exportmodus Hinweise"
+        },
+        "9b7dd7eb41a9d94bd3335e1443ed20c4": {
+            "text": "Eigener Text zu Hinweisen im Exportmodus."
+        },
+        "f19b63802806d1a039802baa5b0b5226": {
+            "text": "Als CSV exportieren"
+        },
+        "7acdf85c69cc3c5305456a293524386e": {
+            "text": "Versteckt"
+        },
+        "0774e163cd7df482edd2abd498189f8b": {
+            "text": "Unver\u00f6ffentlicht"
+        },
+        "8b092f2189805a13062b05175e0bc1f6": {
+            "text": "Falls ausgew\u00e4hlt, kann im Bearbeitungsmodus das Template gewechselt werden (wenn der Benutzer die \"page-template\" Berechtigung hat). Es gibt keine Warnung zu Datenverlust beim wechseln des Templates. Deshalb bitte mit Vorsicht anwenden."
+        },
+        "88a1cb106b020e1e6558879bafcb400f": {
+            "text": "Falls Sie die zu exportierenden Felder festlegen wollen, m\u00fcssen diese zuerst separat f\u00fcr jede Elternseite in den Einstellungen der konfigurierbaren Seiten definiert werden. Alle diese Einstellungen k\u00f6nnen auch Seiten spezifisch \u00fcberschrieben werden."
+        },
+        "b42e9a8c3464c453f01b2f6a1de8a86a": {
+            "text": "Erlaube dem Benutzer zu exportierende Felder, CSV Separator, Einschliessung und Spalten-Label in den Einstellungen der ersten Zeile zu \u00fcberschreiben."
         }
     }
 }
