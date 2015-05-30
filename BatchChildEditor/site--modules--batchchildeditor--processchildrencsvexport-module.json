@@ -1,0 +1,9 @@
+{
+    "file": "site\/modules\/BatchChildEditor\/ProcessChildrenCsvExport.module",
+    "textdomain": "site--modules--batchchildeditor--processchildrencsvexport-module",
+    "translations": {
+        "f46cbe814e5f9e4153d3fb264b50d082": {
+            "text": "Helfer Modul zum BatchChildEditor zur Erstellung von CSV f\u00fcr den Export"
+        }
+    }
+}
