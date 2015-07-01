@@ -147,7 +147,7 @@
             "text": "Zeigt eine Wettervorschau mit Hilfe der Yahoo! Wetter API"
         },
         "222ec2ef401d600eb06ca3f9a3bb2528": {
-            "text": "Woeid is eine Nummer rechts neben dem Namen der Stadt, z.B. https:\/\/de.wetter.yahoo.com\/deutschland\/berlin\/berlin-638242\/"
+            "text": "Woeid ist eine Nummer rechts neben dem Namen der Stadt, z.B. https:\/\/de.wetter.yahoo.com\/deutschland\/berlin\/berlin-638242\/"
         },
         "ab23b865f9995bf19f8a43413a2d0831": {
             "text": "Lesen Sie die Referenz zur [PHP setlocale](http:\/\/php.net\/manual\/en\/function.setlocale.php) Funktion f\u00fcr weitere Informationen zur Anpassung des Formates."
