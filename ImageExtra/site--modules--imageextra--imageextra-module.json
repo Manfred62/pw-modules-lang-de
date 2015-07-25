@@ -43,6 +43,33 @@
         },
         "5aea180d8247320ed42938e3cb9a8d27": {
             "text": "Image Extra Felder"
+        },
+        "122d118473411d3ac885ecb0a496dd7b": {
+            "text": "Feld f\u00fcr Bildtext aktivieren"
+        },
+        "3cc06faa4a3b91f5fc1d1538440669dd": {
+            "text": "(markiere Checkbox zum aktivieren des Feldes `caption`)"
+        },
+        "4e216abbd9af9eb991b654f273c8a5e8": {
+            "text": "Feld zur Ausrichtung des Bildes aktivieren"
+        },
+        "ea3f2597e57e8f3aab2afe71117dd6fe": {
+            "text": "(markiere Checkbox zum aktivieren des Feldes `orientation`)"
+        },
+        "cdea5b355cb80bfea2202bc6884ecd33": {
+            "text": "Werte f\u00fcr die Ausrichtung der Bildfelder"
+        },
+        "b4c4080d6ce41c73cad6ef01a32089fc": {
+            "text": "(Komma separierte Liste)"
+        },
+        "f452fe7491ff8fb313ba377c2e0086b7": {
+            "text": "Feld f\u00fcr internen Link aktivieren"
+        },
+        "91b5a82d60cf913aec6a8908e4d611b9": {
+            "text": "(markiere Checkbox zum aktivieren des Feldes `link`)"
+        },
+        "dd00b403c6733ec460442bc7e784604e": {
+            "text": "Weitere einfache Eingabefelder hinzuf\u00fcgen"
         }
     }
 }
