@@ -415,6 +415,9 @@
         },
         "b42e9a8c3464c453f01b2f6a1de8a86a": {
             "text": "Erlaube dem Benutzer zu exportierende Felder, CSV Separator, Einschliessung und Spalten-Label in den Einstellungen der ersten Zeile zu \u00fcberschreiben."
+        },
+        "4ae4560504dd0a9ae878121abe3c4800": {
+            "text": "Einige Seiten konnten nicht erstellt werden wegen den Einstellungen der Template Familie."
         }
     }
 }
