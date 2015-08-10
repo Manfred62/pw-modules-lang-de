@@ -1,0 +1,234 @@
+{
+    "file": "site\\modules\\MarkupSEO\\MarkupSEO.module",
+    "textdomain": "site--modules--markupseo--markupseo-module",
+    "translations": {
+        "a861d8a3d6aef574c134e7f346f8040f": {
+            "text": "Google Vorschau"
+        },
+        "0211c8f752081cfb67681beef0ade861": {
+            "text": "Wird aktualisiert w\u00e4hrend der Eingabe."
+        },
+        "d88946b678e4c2f251d4e292e8142291": {
+            "text": "Suchmaschinen"
+        },
+        "b78a3223503896721cca1303f776159b": {
+            "text": "Titel"
+        },
+        "bc179f7bc72ca0bbc245f35eb0d5311d": {
+            "text": "Eine gute L\u00e4nge f\u00fcr den Titel ist ca. 60 Zeichen lang."
+        },
+        "867343577fa1f33caa632a19543bd252": {
+            "text": "Stichw\u00f6rter"
+        },
+        "b5a7adde1af5c87d7fd797b6245c2a39": {
+            "text": "Beschreibung"
+        },
+        "59b3dbbd9332a5fbd8e68ddab075289a": {
+            "text": "Eine gute L\u00e4nge f\u00fcr eine Beschreibung ist 160 Zeichen lang."
+        },
+        "be53a0541a6d36f6ecb879fa2c584b08": {
+            "text": "Bild"
+        },
+        "7e13a6d24a41b5421752a5bb7b5b3313": {
+            "text": "Bitte geben Sie eine URL (inkl. \"http:\/\/...\") ein f\u00fcr ein Vorschaubild."
+        },
+        "7cc0feec8680b02473a5f31ad7ee4ff4": {
+            "text": "Kanonischer Link (Gleicher Inhalt - Link auf die Hautpseite)"
+        },
+        "1c4c78cdd287d5753cbadb81dec8acf9": {
+            "text": "Gleicher Inhalt - Link auf die Hautpseite - Die URL sollte \"http:\/\/...\" beinhalten."
+        },
+        "90589c47f06eb971d548591f23c285af": {
+            "text": "Eigene SEO Inhalte"
+        },
+        "9d452988ae6c781ca5801252e83e20a7": {
+            "text": "Falls andere meta tags hinzugef\u00fcgt werden sollen, k\u00f6nnen diese hier eingegeben werden."
+        },
+        "828f7421207abbf5687a787218b647ef": {
+            "text": "Bitte folgendes Schema verwenden: name := inhalt. Pro Zeile ein Eintrag. Spezielle Zeichen sind nur im Inhaltsbereich erlaubt und werden in HTML umgewandelt."
+        },
+        "8a86fc25be700bc5c4d3fee60f85c99e": {
+            "text": "Die all-in-one SEO L\u00f6sung f\u00fcr ProcessWire."
+        },
+        "f1ec0dca0fd889b5ded02899a497b636": {
+            "text": "Templates mit SEO Tab"
+        },
+        "615af84c4c1d84e9e51a05741b68b958": {
+            "text": "W\u00e4hlen Sie die Templates die den SEO Tab nutzen k\u00f6nnen."
+        },
+        "aaac49aef7f0190ee44b3d615a329e19": {
+            "text": "Vorsicht bei \u00c4nderungen an diesem Feld! Wenn Eintr\u00e4ge gel\u00f6scht werden, gehen alle Felder und deren Inhalte verloren!!"
+        },
+        "a517747c3d12f99244ae598910d979c5": {
+            "text": "Autor"
+        },
+        "668445f09da337d276dc852bb6a0dbb3": {
+            "text": "Webseiten Name"
+        },
+        "00400891cda951bb3a6640c6747229c4": {
+            "text": "Die Eintr\u00e4ge aus den Elternseiten \u00fcbernehmen?"
+        },
+        "21c63637a424234056c8fa585e1e8b66": {
+            "text": "Als Standardwerte werden die Eintr\u00e4ge aus den Elternseiten verwendet, falls keine meta Daten auf der jeweiligen Seite eingegeben werden. Diese Option deaktivieren wenn Smartfelder verwendet werden sollen."
+        },
+        "b30ce1a97a08cacf47085d23bb22f94f": {
+            "text": "Smart Titel"
+        },
+        "dad3be0ce8bb33a402b8e2ea227a9d9f": {
+            "text": "Diese Felder werden genutzt (in der angezeigten Reihenfolge) falls kein SEO Titel angegeben ist."
+        },
+        "ff184271cae6617d7e79b2c1ff6b5980": {
+            "text": "Smart Stichw\u00f6rter"
+        },
+        "d2e00a58f78f4ed9dd1f880dca842e44": {
+            "text": "Diese Felder werden genutzt (in der angezeigten Reihenfolge) falls keine SEO Stichw\u00f6rter angegeben ist."
+        },
+        "d50fd124f313155978573948fbf5dc7c": {
+            "text": "Smart Beschreibung"
+        },
+        "e720a0fc13b7e805288790bce600af83": {
+            "text": "Diese Felder werden genutzt (in der angezeigten Reihenfolge) falls keine SEO Beschreibung angegeben ist."
+        },
+        "9945828c83b90483f1e312bba5830104": {
+            "text": "Smart Bild"
+        },
+        "f41f4598ec27d30bc29daed5e1101554": {
+            "text": "Es wird das erste Bild dieser Felder verwendet."
+        },
+        "0c21f0be6bc0d9e2fa13c59acfa65223": {
+            "text": "Titel Format"
+        },
+        "58857f73432981107e76cf2dac28473c": {
+            "text": "Dieser Eintrag \u00e4ndert das Titel Format. Falls leer wird der <title> Tag nicht eingebunden."
+        },
+        "0b7e69c0d6486bdca4c03e40375940ce": {
+            "text": "Sie k\u00f6nnen {title}, {sitename} benutzen."
+        },
+        "7d0cf56e6b5768a239a7b8a2b69a9c81": {
+            "text": "Protkoll f\u00fcr kanonische Links"
+        },
+        "c826ef451257bcf894c86984ec37cc7d": {
+            "text": "Schlie\u00dft ein offenes Fieldset"
+        },
+        "ff03e461fed6ecf87fbfe6411b9b09f0": {
+            "text": "W\u00e4hlen Sie aus, ob sie \"https\", \"http\" oder eine automatische Erkennung w\u00fcnschen."
+        },
+        "739f9b5d0d4d31b8dda3096460a18ec5": {
+            "text": "Automatische Erkennung pr\u00fcft ob $config->https aktiviert ist."
+        },
+        "000fecfcd9ed8119c3841ca87d49d291": {
+            "text": "Robots"
+        },
+        "465c595582d5041745c9b5f488510a17": {
+            "text": "Die Robots Einstellungen legen f\u00fcr die Suchmaschinen fest welche Daten f\u00fcr den Index erlaubt sind."
+        },
+        "a40eb771de0ef255193f314c41f8b7b8": {
+            "text": "Feste Begrenzung f\u00fcr Anzahl Zeichen?"
+        },
+        "d53339a4f27381e1d7ae1ecec4a3ee5e": {
+            "text": "Diese Einstellung setzt die feste Begrenzung f\u00fcr die eingestellten Limits f\u00fcr die Zeichenl\u00e4ngen fest. Wenn aktiviert k\u00f6nnen nicht mehr Zeichen eingegeben werden."
+        },
+        "9ec72c933cb3c8d23d67158e63b0cbd8": {
+            "text": "SEO Titel Anzahl der Zeichen"
+        },
+        "3508542061015fd471ca3c230039586e": {
+            "text": "Das Zeichen Limit f\u00fcr den SEO Titel - 60 Zeichen sind empfohlen und auch der Standardwert."
+        },
+        "5a38448b5ff8b5df1cc72f7adb10739b": {
+            "text": "SEO Beschreibung Anzahl der Zeichen"
+        },
+        "d3b8de0053a5577d9feec0ad61066bcf": {
+            "text": "Das Zeichen Limit f\u00fcr die SEO Beschreibung - 160 Zeichen sind empfohlen und auch der Standardwert."
+        },
+        "8c99bfe08123f95bce5f7a055bf15dea": {
+            "text": "Generator Tag erzeugen?"
+        },
+        "e3ef355daa5e49a053a95f0782f6f994": {
+            "text": "Diese Einstellung erzeugt den Metatag \"generator\", der zeigt mit welchem System die Webseite betrieben wird."
+        },
+        "26f21774659e7b32b433bcdc661b4852": {
+            "text": "Open Graph Metatags erzeugen?"
+        },
+        "7ca601899d093548db26094b32b012d4": {
+            "text": "Open Graph Metatags werden durch Facebook und andere Webdienste beim einbinden von Links verwendet."
+        },
+        "b6bf49d790fafd3c89ef2897e87cabe1": {
+            "text": "Twitter Cards Metatags erzeugen?"
+        },
+        "f6a4b529e5e1b9488ecdab86e8582140": {
+            "text": "Diese Daten legen f\u00fcr Twitter fest welchen Daten f\u00fcr einen Twitter Post festgelegt sind und verwendet werden sollen."
+        },
+        "b583858e9d8e3e6790487c5edb6507fc": {
+            "text": "Twitter Benutzername"
+        },
+        "3e9ec93ffbb42dd8b9c01e1878afb33a": {
+            "text": "Ihr Twitter Benutzername (ohne \"@\") wird ben\u00f6tigt um die \"Twitter Card\" Option nutzen zu k\u00f6nnen."
+        },
+        "4c3880bb027f159e801041b1021e88e8": {
+            "text": "Lademethode"
+        },
+        "70232e78b64d7bb86dd4e5a0ef9eb9e2": {
+            "text": "Wollen Sie die erzeugten Metatags automatisch in den <head> Bereich der Seite einbinden?"
+        },
+        "bf6f63550c0344e1a6716f78e172c96b": {
+            "text": "Automatisch"
+        },
+        "826c19d01b527f2701cc3460b9c889de": {
+            "text": "Manuell"
+        },
+        "4f7fa6d3c658fbc39cbd71708b930b81": {
+            "text": "Abstand vor den Metatags einf\u00fcgen?"
+        },
+        "d989be83f063dd7222f0b92e1794f405": {
+            "text": "Diese Option f\u00fcgt einen Abstand (Eine Einr\u00fcckung) vor den Metatags die eingebunden werden hinzu. Empfohlen wenn die automatische Einbindung ausgew\u00e4hlt wurde."
+        },
+        "06ba2bc280e5497a86716f2bac565751": {
+            "text": "Google Analystcs Code"
+        },
+        "084763589df0027e2166d25fd54a188b": {
+            "text": "Google Analystcs Code wird eingebunden wenn dieses Feld ausgef\u00fcllt wurde."
+        },
+        "016d5b3a44203ff48093cbd74c83fb38": {
+            "text": "Ihren Google Analystcs Code finden Sie unter:  https:\/\/support.google.com\/analytics\/answer\/1008080. Er sieht in etwa so aus: UA-XXXXXXX-X."
+        },
+        "1fa5d96137bd1d00dbc15669cd4a441b": {
+            "text": "Piwik Analytics URL"
+        },
+        "67ddfcae4ff9f690bd57e0f4f06524c8": {
+            "text": "Piwik Code wird automatisch eingebunden wenn diese Felder ausgef\u00fcllt sind."
+        },
+        "cf28b0088e8c6a61d7f1ba8f895d1582": {
+            "text": "URL ohne http:\/\/ oder https:\/\/"
+        },
+        "98c9d8e1332025fda41b0f5f23302ab2": {
+            "text": "Piwik Analytics IDSite"
+        },
+        "75543f6b938b186655cd01b16123f3a5": {
+            "text": "Mehrsprachigkeit"
+        },
+        "8a79f34ca78616c9ba9d7fd1c1251690": {
+            "text": "Falls die Webseite mehrere Sprachen benutzt k\u00f6nnen die SEO Felder auch in mehreren Sprachen verwendet werden. Um dies zu erreichen sind die SEO Felder manuell auf Mehrsprachigkeit umzustellen."
+        },
+        "7c5f21b45f3a608bec8ee06d01babb6b": {
+            "text": "1. Gehen Sie auf \"Verwaltung>Felder\". Dort sind einige Felder mit dem Schema \"seo_*\". Nun klicken Sie auf ein Feld das Mehrsprachigkeit unterst\u00fctzen soll."
+        },
+        "b6c85d255479d6509af1b692e2876c46": {
+            "text": "2. \u00c4ndern Sie den \"Typ\" z.B. von \"Text\" auf \"TextLanguage\" und klicken Sie \"Speichern\". Das gen\u00fcgt."
+        },
+        "5259ae4afb5996ff48788b2fa720114c": {
+            "text": "Empfehlungen"
+        },
+        "6b9bf4dcd8852db2aa6925e6d530589e": {
+            "text": "F\u00fcr eine bessere Suchmaschinenoptimierung gibt es einige weitere Module die sehr empfehlenswert sind:"
+        },
+        "d6f27cd9df86546923c566aa58b83a6e": {
+            "text": "Unterst\u00fctzen Sie die Entwicklung"
+        },
+        "2df492d58fd6b83c66ae3e2a9eda0249": {
+            "text": "Dieses Modul ist und bleibt konstenfrei und Open-Source. Wenn das Modul gef\u00e4llt und Sie die Entwicklung unterst\u00fctzen wollen spenden Sie via Paypal:"
+        },
+        "b24ea0398f423077ce7fafe89bb79169": {
+            "text": "Zeichen"
+        }
+    }
+}
