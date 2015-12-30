@@ -32,9 +32,6 @@
         "228e8380ee42b3ba5d59cdc502dc154d": {
             "text": "Aktualisierung vorhanden"
         },
-        "a58f3c80ca376e5371b7be2dc085bb1a": {
-            "text": "\u00c4lter wie das Aktuelle"
-        },
         "aea66fece551d7c7d294ba4c56e83db1": {
             "text": "Nicht im Verzeichnis"
         },
@@ -43,6 +40,12 @@
         },
         "33307683980623bb7962b8808d4054a1": {
             "text": "Aktuell"
+        },
+        "e55f75a29310d7b60f7ac1d390c8ae42": {
+            "text": "="
+        },
+        "ec53a8c4f07baed5d8825072c89799be": {
+            "text": "="
         }
     }
 }
