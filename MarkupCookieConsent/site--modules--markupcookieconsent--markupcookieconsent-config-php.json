@@ -90,7 +90,7 @@
             "text": "Der Pfad f\u00fcr den Zustimmungs-Cookie"
         },
         "28d675427ad90bd34fa82e2f18136396": {
-            "text": "Standardm\u00e4\u00dfig falsch"
+            "text": "Standardm\u00e4\u00dfig unwahr"
         },
         "8ecf43980ae1c32970b5b85a30a394b5": {
             "text": "Stylesheet des Moduls einf\u00fcgen?"
@@ -157,6 +157,15 @@
         },
         "57792e368e4b4f1ae430c2f887b18e92": {
             "text": "unten (Standard)"
+        },
+        "e5a0a6d42f5dc5322d035c822fd75c97": {
+            "text": "Verwenden Sie dies, um einen Link in neuem Fenster oder speziellem Frame zu \u00f6ffnen"
+        },
+        "4a70965b7788fb00d1d3cca481388dad": {
+            "text": "Die Domain f\u00fcr den Zustimmungs-Cookie, um daran zu erinnern, dass die Nutzer zu Cookies zugestimmt haben."
+        },
+        "f717977168dc9c652b6ecb5b6cb9a561": {
+            "text": "N\u00fctzlich, falls ihre Website mehrere Subdomains nutzt. Wenn Ihr Script z.B. unter www.example.com gehostet ist, k\u00f6nnten sie dies \u00fcberschreiben auf example.com. Dadurch kann der gleiche Zustimmungs-Cookie auch durch eine Subdomain wie foo.example.com erkannt werden."
         }
     }
 }
