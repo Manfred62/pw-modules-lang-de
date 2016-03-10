@@ -11,6 +11,7 @@ Dies ist eine kleine Sammlung von deutschen Übersetzungsdateien für ProcessWir
 * FieldtypeCropImage (Thumbnails)
 * ImageExtra
 * LanguageInstantInstall
+* MarkupCookieConsent
 * MarkupSEO (by mr-fan)
 * MarkupWeather (by mr-fan)
 * MarkupYahooWeather

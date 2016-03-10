@@ -1,0 +1,162 @@
+{
+    "file": "site\/modules\/MarkupCookieConsent\/MarkupCookieConsent.config.php",
+    "textdomain": "site--modules--markupcookieconsent--markupcookieconsent-config-php",
+    "translations": {
+        "43e99e83e1af8b98aaf4200599d6b6a1": {
+            "text": "Cookies akzeptieren"
+        },
+        "f4f70727dc34561dfde1a3c529b6205c": {
+            "text": "Einstellungen"
+        },
+        "723ea95d81a8f0e69714b7dfbb5fee40": {
+            "text": "Aktiviere Ajax"
+        },
+        "2ac8a0079f78a605b796358d024f4b0c": {
+            "text": "Keine Abh\u00e4ngigkeiten (Vanilla js), verhindert Best\u00e4tigung durch neuladen der Seite"
+        },
+        "d19d5632bd497f9fbc9a55416a10428e": {
+            "text": "Theme w\u00e4hlen"
+        },
+        "0107bb8b5790f9055eebf53dd1764969": {
+            "text": "Position w\u00e4hlen"
+        },
+        "bd10be44dc3f2e9e7922c24e49114f4f": {
+            "text": "Standardm\u00e4\u00dfig leer"
+        },
+        "689202409e48743b914713f96d93947c": {
+            "text": "Wert"
+        },
+        "5f8ba8e2261923cfca9d31fa6cb2523b": {
+            "text": "Eigener Selektor"
+        },
+        "897429b1f4014d2c957e46baf5005769": {
+            "text": "Geben Sie ihren Selektor ein"
+        },
+        "bb8731f96fe1f602488323e7b7438393": {
+            "text": "Cookie Optionen"
+        },
+        "1922e4e6cb5cbe0a82abee357833f236": {
+            "text": "Cookie Name"
+        },
+        "b26126a5fdfea23d379aa813c392d533": {
+            "text": "Standard: %s"
+        },
+        "cbbfad6bb0827cbef1b15d4b5b3fb81a": {
+            "text": "Standard: 1209600 (Sekunden) = 14 Tage"
+        },
+        "fcde9addc254d43ed860b10b96d8ce85": {
+            "text": "Cookie Domain"
+        },
+        "82af78458b97b501d4aca4c2e21b50dd": {
+            "text": "Cookie Pfad"
+        },
+        "02f8fbec98a332f24a9e90b6249d161a": {
+            "text": "Cookie nur \u00fcber SSL"
+        },
+        "7a74350e18293c6c6bb61479e114b77f": {
+            "text": "Cookie nur \u00fcber HTTP"
+        },
+        "b535b8138beb937c800432367731a536": {
+            "text": "Standard Einstellungen"
+        },
+        "d5c898e602e4faf5f0bf7f002ba255f2": {
+            "text": "Einstellungen f\u00fcr Nachricht & Akzeptieren-Button"
+        },
+        "d2c7a20c2195ce8f40ae5d60383de067": {
+            "text": "Die Nachricht welche durch das Plugin angezeigt wird"
+        },
+        "6b3e726fd7dd28914bab878eedb1ca1e": {
+            "text": "Text auf dem Akzeptieren-Button"
+        },
+        "da6efaa678c03355b06ac5aea622c9bf": {
+            "text": "Diese Website benutzt Cookies, um sicherzustellen, dass Sie die beste Erfahrung auf unserer Website haben"
+        },
+        "18959f940a8ae86522284cefd9e0bb16": {
+            "text": "Text oder HTML dem Button-Text voranstellen"
+        },
+        "6f07eddf774e6950111db53db5c3253d": {
+            "text": "Text oder HTML dem Button-Text anh\u00e4ngen"
+        },
+        "1dee80c7d5ab2c1c90aa8d2f7dd47256": {
+            "text": "Beschreibung"
+        },
+        "5afb14c537c0ed4ed3805e8f9c12ae68": {
+            "text": "Link Ziel"
+        },
+        "4f45579ba5361b3da318562c20718766": {
+            "text": "Der Name des Zustimmungs-Cookie"
+        },
+        "f5bec9985809fa21da97fe05b4421200": {
+            "text": "Der Pfad f\u00fcr den Zustimmungs-Cookie"
+        },
+        "28d675427ad90bd34fa82e2f18136396": {
+            "text": "Standardm\u00e4\u00dfig falsch"
+        },
+        "8ecf43980ae1c32970b5b85a30a394b5": {
+            "text": "Stylesheet des Moduls einf\u00fcgen?"
+        },
+        "eb5496833b5453e73ee457300b3f3e1a": {
+            "text": "F\u00fcgt das Stylesheet automatisch in den <head> ein"
+        },
+        "a8d540687ed042f776f115254696ab51": {
+            "text": "Zum Beispiel das Font Awesome Checkmark Icon mit %s\\n(Sie m\u00fcssen Font Awesome selber bereitstellen)"
+        },
+        "79306fa4516bb371b26e4f998d1f3014": {
+            "text": "Wie man manuell Dateien einsetzt"
+        },
+        "195e02bad5d2351068f62836125e727f": {
+            "text": "Richtlinienseite"
+        },
+        "f8667905a29143035482f66e71c7abeb": {
+            "text": "Angezeigter Text auf dem Link zur Cookie Richtlinie"
+        },
+        "645cb5baab5f88b4f00cff785e1e91f8": {
+            "text": "Linktext zur Richtlinie"
+        },
+        "ecf62efe102bdbda7d50e56d1eadd196": {
+            "text": "Verfallsdauer in Sekunden"
+        },
+        "e7aaea39ff24657cd149468e5938f424": {
+            "text": "G\u00fcltigkeitsdauer des Cookie in Sekunden"
+        },
+        "306f00414be6376bf7d07e727d533da2": {
+            "text": "Die Auswahl zeigt mehr Optionen an"
+        },
+        "211843608fa2d05b23f30337fb2082cc": {
+            "text": "Das Ziel des Links zu ihrer Cookie Richtlinie"
+        },
+        "9aa529003539959cfeb502d4c733f8ac": {
+            "text": "Cookie vom Client nur \u00fcber SSL senden?"
+        },
+        "35e2e7525b8c2f47da3f1cfcbda9f08d": {
+            "text": "Cookie wird nur durch HTTP Protokoll verf\u00fcgbar sein"
+        },
+        "25bf340eb0a626a0248c67133d6bb37c": {
+            "text": "Standardm\u00e4\u00dfig wahr\\nEs gibt Erfahrungen, dass diese Einstellung helfen kann, effektiv Identit\u00e4tsdiebstahl durch XSS-Angriffe zu reduzieren"
+        },
+        "dfdd1b18cfc933c06b244ff82e0a5ad3": {
+            "text": "Einstellungen der Privatsph\u00e4re"
+        },
+        "5fcb5e8306bafa45fccac57d76a85916": {
+            "text": "Seite zur Privatsph\u00e4renrichtlinie w\u00e4hlen"
+        },
+        "65e1e3190829fb0700fea29ed81d5a74": {
+            "text": "hierzu muss auch die Linkoption gesetzt sein"
+        },
+        "3db89bbce9a75aef2505a841723a0802": {
+            "text": "Verwenden um die Zustimmung auf einen bestimmten Pfad in Ihrer Website zu begrenzen"
+        },
+        "9886f3ab2b0a1ede7d48c2b39770f42f": {
+            "text": "dunkel (Standard)"
+        },
+        "2ac43aa43bf473f9a9c09b4b608619d3": {
+            "text": "hell"
+        },
+        "b28354b543375bfa94dabaeda722927f": {
+            "text": "oben"
+        },
+        "57792e368e4b4f1ae430c2f887b18e92": {
+            "text": "unten (Standard)"
+        }
+    }
+}
