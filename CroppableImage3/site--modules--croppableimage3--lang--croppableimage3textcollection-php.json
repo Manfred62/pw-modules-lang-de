@@ -1,0 +1,159 @@
+{
+    "file": "site\/modules\/CroppableImage3\/lang\/CroppableImage3TextCollection.php",
+    "textdomain": "site--modules--croppableimage3--lang--croppableimage3textcollection-php",
+    "translations": {
+        "cca3d55638d8312976f97e1eb5edbe7e": {
+            "text": "Hui, das sieht doch klasse aus!"
+        },
+        "307193b0a296a298f4a7277ebcce5211": {
+            "text": "Oh! Ein Fehler ist passiert: %s"
+        },
+        "128c2bf53d97705d9dc2c9ceb41c0035": {
+            "text": "Nicht zufrieden? Wiederholen!"
+        },
+        "3523096bcaa113350af1533feaf3fb20": {
+            "text": "M\u00f6chten Sie es nochmal versuchen?"
+        },
+        "14125c75dee8cadb13284bfa7facf780": {
+            "text": "Ausschneiden anwenden"
+        },
+        "3338ff8cb5a165f147b02ad45c7e4afe": {
+            "text": "Das ausgeschittene Bild wird in der Gr\u00f6\u00dfe ge\u00e4ndert auf %s Pixel. Den Ausschnittsbereich durch Anklicken und Ziehen mit dem Cursor verschieben."
+        },
+        "6254e2663aa5f9429dcefb9d6efe598c": {
+            "text": "\u00dcbernehmen!"
+        },
+        "3ad48715b539bd0e8135de930090af1a": {
+            "text": "Da ist ein Fehler passiert: %s"
+        },
+        "6cbc2dcbe37209401cf95b199f909f02": {
+            "text": "Ausschneiden wiederholen"
+        },
+        "eaa3189262a2cfd74d5b6cbdedf9e486": {
+            "text": "M\u00f6chten Sie es nochmal probieren?"
+        },
+        "9d050ce89f49fc248c5089d5f5082098": {
+            "text": "Das Ausschneiden fortsetzen"
+        },
+        "c3c8fb424fa3b11f217dfffb09ce6b2f": {
+            "text": "Hm, na ja - weiter!"
+        },
+        "673d3fc41749acdfe0b3bb7a66659566": {
+            "text": "Mist! Ein Fehler ist passiert: %s"
+        },
+        "e9fd0710c2771fea0449783bfbdd8857": {
+            "text": "Nochmal von vorn, ich krieg's besser hin!"
+        },
+        "33e781af73c97dc2c88d7ea440628f8b": {
+            "text": "Ausschneiden!"
+        },
+        "96b4361a4ac76986019d236ec2cb40ad": {
+            "text": "Auschnittseinstellungen: Diese Zeile ist keine g\u00fcltige Einstellung: '%s'"
+        },
+        "114c5efd4560b2845e9e1a6d7c1c2342": {
+            "text": "Auschnittseinstellungen: Die folgenden Templates wurden nicht gefunden: '%s'"
+        },
+        "bf5f684d1e7f95470a0ed0a97bc9c945": {
+            "text": "Auschnittseinstellungen: Die Namen m\u00fcssen unterschiedlich sein, '%s' ist bereits verwendet: '%s'"
+        },
+        "19ce9a9982119b9065e46ab0b01ab6b0": {
+            "text": "Durch ung\u00fcltige Auschnittseinstellungen k\u00f6nnten vorhandene Bildvarianten unabsichtlich entfernt werden. Daher werden jetzt die vorherigen Einstellungen wiederhergestellt."
+        },
+        "48ef4e7c1d42fe1d54ec0a9f631446c1": {
+            "text": "Es gibt keine Auschnittseinstellung f\u00fcr das Template '%s' mit dem Namen '%s'"
+        },
+        "5a84bbeda7ec91e7c681b60229430774": {
+            "text": "Breite und H\u00f6he nicht gefunden f\u00fcr Auschnittseinstellung  '%s'"
+        },
+        "c4d1a7fb39d0b14b3427fcf064625712": {
+            "text": "Vordefinierte Auschnitte"
+        },
+        "110deb8556c764e2e160831b5a43da38": {
+            "text": "Diese Auschnittseinstellung (%s) ist gr\u00f6\u00dfer als das Originalbild (%s) und Vergr\u00f6\u00dferungen sind nicht erlaubt."
+        },
+        "de95b43bceeb4b998aed4aed5cef1ae7": {
+            "text": "Bearbeiten"
+        },
+        "ff4fef2cba791e4b31501b6078e1edb1": {
+            "text": "Einige Eingabefelder sind leer"
+        },
+        "563d6aae16024e55556351466524efa5": {
+            "text": "Auschnittseinstellungen"
+        },
+        "f2a593b8e8e9a7fb218a127931479205": {
+            "text": "Alle Ausschnittsma\u00dfe eingeben - eine pro Zeile - in folgendem Format: name,breite,h\u00f6he (Kleinbuchstaben). Einige Beispiele: \"landscape,900,600\" oder \"portrait,200,600\". Optional kann eine Auschnittseinstellung auch nur f\u00fcr ein spezielles Template gelten, indem der Name dieses Templates als letzter Parameter erg\u00e4nzt wird. Beispiele: \"panorama,1200,600,home\" oder \"square,300,300,basic-page,home\""
+        },
+        "556b763769d96726364eec5e37eb186c": {
+            "text": "Sch\u00e4rfen"
+        },
+        "571094bb27864b600d8e6b561a137a55": {
+            "text": "Qualit\u00e4t"
+        },
+        "ba1913ac19202873126e63ec20003d24": {
+            "text": "Voransicht zeigen?"
+        },
+        "fb29e28aefbb50c6f67661c42e13652d": {
+            "text": "Diese Seite kann nur \u00fcber ein Bild-Feld aufgerufen werden."
+        },
+        "a1e6b43317a31e4a226e3ac84bd4a093": {
+            "text": "Die Endung ist nicht g\u00fcltig (%s) oder es das falsche Seiten-Template (%s)!"
+        },
+        "cc8befe6d34cba15ecb97afddcdd62ae": {
+            "text": "Hier k\u00f6nnen Sie w\u00e4hlen, welchen Sprachstil der Button-Texte Sie bevorzugen"
+        },
+        "e35c446223c5ff078ba1c1a036634cdd": {
+            "text": "Button-Spachstil: lustig | ernst  | heldenhaft"
+        },
+        "bcc829d2b10f6dfbd9ede256961f6b27": {
+            "text": "Button-Spachstil"
+        },
+        "7edaa4d30a53e3fd79f17056a57404b4": {
+            "text": "Hier wird eingestellt, welcher Sprachstil auf den Buttons gezeigt wird. Beispiele: Wow, das sieht super aus! | \u00dcbernehmen! | Hm, na ja - weiter!"
+        },
+        "7058f165e26cbb82956259749ca62350": {
+            "text": "Ich mag es lustig"
+        },
+        "a3a300c1a21a0627ec665be4f4a18ad4": {
+            "text": "Ich bin seri\u00f6s"
+        },
+        "ea4d13e812ea57868d473fa85e9d6a0b": {
+            "text": "Ich bin tapfer, \u00fcberrasche mich"
+        },
+        "431b60f007bde7128a950607aca785ae": {
+            "text": "Hier k\u00f6nnen die globalen Optionen f\u00fcr Bildqualit\u00e4t und Sch\u00e4rfe eingestellt werden. Diese sind normalerweise im Ausschnittseditor frei einstellbar. Dies k\u00f6nnen Sie hier deaktivieren und statt dessen die Werte fest vorgeben."
+        },
+        "f435cbda33d3277783228ff2a551c344": {
+            "text": "Drop-Down-Auswahlen f\u00fcr Qualit\u00e4t und Sch\u00e4rfe im Ausschnittseditor global deaktivieren!"
+        },
+        "b7e8ffa1ad4d195feca3582b180a2639": {
+            "text": "Definieren Sie diese statt dessen hier oder nutzen Sie die Standardeinstellungen der ImagesizerEngine."
+        },
+        "794abe02fa216f73630412145474b2ee": {
+            "text": "Standardeinstellungen der ImagesizerEngine f\u00fcr Qualit\u00e4t und Sch\u00e4rfe nutzen!"
+        },
+        "c76e9c619e8460930f8bbbe89d409d48": {
+            "text": "Qualit\u00e4t: 1-100; h\u00f6here Werte sind besser, erzeugen aber gr\u00f6\u00dfere Dateien"
+        },
+        "c3a6e4dac1b856bc0db74f6dbafd6368": {
+            "text": "Globale Einstellung f\u00fcr die Qualit\u00e4t"
+        },
+        "b657204c56dd81f5cd22a665f4d19c1b": {
+            "text": "Sch\u00e4rfen: none | soft | medium | strong"
+        },
+        "44b794f1e741ad05c8a69d3bc568c3a9": {
+            "text": "Globale Einstellung f\u00fcr Sch\u00e4rfe"
+        },
+        "e7ceb8235ba433e0b1c120850340b029": {
+            "text": "FEHLER: Das Entfernen von Bildvarianten konnte nicht erfolgreich beendet werden. Im errorlog finden Sie weitere Details."
+        },
+        "05a892df63ec4662a3e5629951ac9312": {
+            "text": "ERFOLG! Alle Bildvarianten wurden entfernt."
+        },
+        "aabd7eb9f31cdc67371d0cda7c6ec86b": {
+            "text": "FEHLER: Es konnten nicht alle Seiten mit Bildvarianten gefunden und gelistet werden.  Im errorlog finden Sie weitere Details."
+        },
+        "63ed10bd15257392e7b607da67998a8f": {
+            "text": "ERFOLG! Alle Seiten mit Bildvarianten wurden gefunden und gelistet."
+        }
+    }
+}
