@@ -7,6 +7,7 @@ Dies ist eine kleine Sammlung von deutschen Übersetzungsdateien für ProcessWir
 ### Modules translated
 * BatchChildEditor (by mr-fan)
 * CroppableImage
+* CroppableImage3 (by tbba)
 * DynamicRoles
 * FieldtypeCropImage (Thumbnails)
 * ImageExtra
